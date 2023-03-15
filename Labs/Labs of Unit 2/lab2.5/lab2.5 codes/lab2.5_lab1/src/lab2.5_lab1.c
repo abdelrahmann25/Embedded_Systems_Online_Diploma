@@ -1,0 +1,33 @@
+/*
+ ============================================================================
+ Name        : 5_lab1.c
+ Author      : Abdelrahman Mamdouh
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+//program uses a function to calculate factorial of any positive number.
+#include <stdio.h>
+#include <stdlib.h>
+
+int factorial(int num) {
+	int i, factorial = 1;
+	if (num > 0) {
+		for (i = num; i > 0; i--) {
+			factorial *= i;
+		}
+	} else {
+		factorial = 0;
+	}
+	return (factorial);
+}
+
+int main(void) {
+
+	printf("%d\n", factorial(5));
+	printf("%d\n", factorial(0));
+	printf("%d\n", factorial(-5));
+	printf("%d\n", factorial(6));
+	return EXIT_SUCCESS;
+}

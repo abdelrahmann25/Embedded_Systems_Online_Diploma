@@ -1,0 +1,7 @@
+23:29:21 **** Incremental Build of configuration Debug for project lab2.5_lab1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.5_lab1.o" "..\\src\\lab2.5_lab1.c" 
+gcc -o lab2.5_lab1.exe "src\\lab2.5_lab1.o" 
+
+23:29:22 Build Finished (took 1s.95ms)
+

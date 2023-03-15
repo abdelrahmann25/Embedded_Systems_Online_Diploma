@@ -1,0 +1,34 @@
+/*
+ ============================================================================
+ Name        : 4_ex6.c
+ Author      : Abdelrahman Mamdouh
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <string.h>
+int main(void) {
+	char text[100];
+	char chara;
+	int i, freq=0;
+
+	printf("Enter Your string: ");
+	fflush(stdin); fflush(stdout);
+	gets(text);
+	fflush(stdin); fflush(stdout);
+	printf("\nEnter character to be searched for: ");
+	fflush(stdin); fflush(stdout);
+	scanf("%c",&chara);
+	for(i=0;text[i]!='\0';i++)
+	{
+		if (text[i]==chara)
+			freq++;
+
+	}
+	fflush(stdin); fflush(stdout);
+	printf("\nFrequency of %c = %d",chara,freq);
+	return 0;
+}

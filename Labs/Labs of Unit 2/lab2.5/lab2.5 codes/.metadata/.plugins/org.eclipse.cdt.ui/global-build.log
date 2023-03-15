@@ -1,0 +1,188 @@
+23:13:48 **** Rebuild of configuration Debug for project lab2.5_lab1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.5_lab1.o" "..\\src\\lab2.5_lab1.c" 
+gcc -o lab2.5_lab1.exe "src\\lab2.5_lab1.o" 
+23:20:29 **** Incremental Build of configuration Debug for project lab2.5_lab1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.5_lab1.o" "..\\src\\lab2.5_lab1.c" 
+..\src\lab2.5_lab1.c: In function 'factorial':
+..\src\lab2.5_lab1.c:22:3: error: expected '}' before 'else'
+   else
+   ^~~~
+..\src\lab2.5_lab1.c: At top level:
+..\src\lab2.5_lab1.c:26:1: error: expected identifier or '(' before '}' token
+ }
+ ^
+..\src\lab2.5_lab1.c: In function 'factorial':
+..\src\lab2.5_lab1.c:25:2: warning: control reaches end of non-void function [-Wreturn-type]
+  }
+  ^
+23:20:46 **** Incremental Build of configuration Debug for project lab2.5_lab1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.5_lab1.o" "..\\src\\lab2.5_lab1.c" 
+..\src\lab2.5_lab1.c: In function 'factorial':
+..\src\lab2.5_lab1.c:22:3: error: expected '}' before 'else'
+   else
+   ^~~~
+..\src\lab2.5_lab1.c: At top level:
+..\src\lab2.5_lab1.c:27:1: error: expected identifier or '(' before '}' token
+ }
+ ^
+..\src\lab2.5_lab1.c: In function 'factorial':
+..\src\lab2.5_lab1.c:26:2: warning: control reaches end of non-void function [-Wreturn-type]
+  }
+  ^
+23:21:14 **** Incremental Build of configuration Debug for project lab2.5_lab1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.5_lab1.o" "..\\src\\lab2.5_lab1.c" 
+..\src\lab2.5_lab1.c: In function 'factorial':
+..\src\lab2.5_lab1.c:25:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+gcc -o lab2.5_lab1.exe "src\\lab2.5_lab1.o" 
+23:22:39 **** Incremental Build of configuration Debug for project lab2.5_lab1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.5_lab1.o" "..\\src\\lab2.5_lab1.c" 
+..\src\lab2.5_lab1.c: In function 'factorial':
+..\src\lab2.5_lab1.c:25:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+gcc -o lab2.5_lab1.exe "src\\lab2.5_lab1.o" 
+Info: Nothing to build for lab2.5_lab1
+23:24:33 **** Incremental Build of configuration Debug for project lab2.5_lab1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.5_lab1.o" "..\\src\\lab2.5_lab1.c" 
+..\src\lab2.5_lab1.c: In function 'factorial':
+..\src\lab2.5_lab1.c:24:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+gcc -o lab2.5_lab1.exe "src\\lab2.5_lab1.o" 
+Info: Nothing to build for lab2.5_lab1
+Info: Nothing to build for lab2.5_lab1
+Info: Nothing to build for lab2.5_lab1
+Info: Nothing to build for lab2.5_lab1
+23:27:14 **** Incremental Build of configuration Debug for project lab2.5_lab1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.5_lab1.o" "..\\src\\lab2.5_lab1.c" 
+gcc -o lab2.5_lab1.exe "src\\lab2.5_lab1.o" 
+Info: Nothing to build for lab2.5_lab1
+23:27:28 **** Incremental Build of configuration Debug for project lab2.5_lab1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.5_lab1.o" "..\\src\\lab2.5_lab1.c" 
+gcc -o lab2.5_lab1.exe "src\\lab2.5_lab1.o" 
+Info: Nothing to build for lab2.5_lab1
+23:29:21 **** Incremental Build of configuration Debug for project lab2.5_lab1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.5_lab1.o" "..\\src\\lab2.5_lab1.c" 
+gcc -o lab2.5_lab1.exe "src\\lab2.5_lab1.o" 
+23:29:58 **** Rebuild of configuration Debug for project lab2.5_lab2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.5_lab2.o" "..\\src\\lab2.5_lab2.c" 
+gcc -o lab2.5_lab2.exe "src\\lab2.5_lab2.o" 
+23:44:33 **** Incremental Build of configuration Debug for project lab2.5_lab2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.5_lab2.o" "..\\src\\lab2.5_lab2.c" 
+..\src\lab2.5_lab2.c: In function 'main':
+..\src\lab2.5_lab2.c:35:11: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'int' [-Wformat=]
+   scanf("%d", array[i]);
+           ^
+..\src\lab2.5_lab2.c:27:15: warning: unused variable 'mini' [-Wunused-variable]
+  int i, size, mini;
+               ^~~~
+gcc -o lab2.5_lab2.exe "src\\lab2.5_lab2.o" 
+23:44:47 **** Incremental Build of configuration Debug for project lab2.5_lab2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.5_lab2.o" "..\\src\\lab2.5_lab2.c" 
+..\src\lab2.5_lab2.c: In function 'main':
+..\src\lab2.5_lab2.c:35:11: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'int' [-Wformat=]
+   scanf("%d", array[i]);
+           ^
+gcc -o lab2.5_lab2.exe "src\\lab2.5_lab2.o" 
+Info: Nothing to build for lab2.5_lab2
+23:46:29 **** Incremental Build of configuration Debug for project lab2.5_lab2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.5_lab2.o" "..\\src\\lab2.5_lab2.c" 
+..\src\lab2.5_lab2.c: In function 'main':
+..\src\lab2.5_lab2.c:39:11: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'int' [-Wformat=]
+   scanf("%d", array[i]);
+           ^
+gcc -o lab2.5_lab2.exe "src\\lab2.5_lab2.o" 
+Info: Nothing to build for lab2.5_lab2
+23:47:26 **** Incremental Build of configuration Debug for project lab2.5_lab2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.5_lab2.o" "..\\src\\lab2.5_lab2.c" 
+gcc -o lab2.5_lab2.exe "src\\lab2.5_lab2.o" 
+Info: Nothing to build for lab2.5_lab2
+23:48:36 **** Incremental Build of configuration Debug for project lab2.5_lab2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.5_lab2.o" "..\\src\\lab2.5_lab2.c" 
+gcc -o lab2.5_lab2.exe "src\\lab2.5_lab2.o" 
+Info: Nothing to build for lab2.5_lab2
+23:49:12 **** Incremental Build of configuration Debug for project lab2.5_lab2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.5_lab2.o" "..\\src\\lab2.5_lab2.c" 
+gcc -o lab2.5_lab2.exe "src\\lab2.5_lab2.o" 
+Info: Nothing to build for lab2.5_lab2
+23:50:58 **** Rebuild of configuration Debug for project lab2.5_lab3 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.5_lab3.o" "..\\src\\lab2.5_lab3.c" 
+gcc -o lab2.5_lab3.exe "src\\lab2.5_lab3.o" 
+00:17:07 **** Incremental Build of configuration Debug for project lab2.5_lab3 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.5_lab3.o" "..\\src\\lab2.5_lab3.c" 
+gcc -o lab2.5_lab3.exe "src\\lab2.5_lab3.o" 
+00:17:29 **** Incremental Build of configuration Debug for project lab2.5_lab3 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.5_lab3.o" "..\\src\\lab2.5_lab3.c" 
+gcc -o lab2.5_lab3.exe "src\\lab2.5_lab3.o" 
+Info: Nothing to build for lab2.5_lab3
+00:19:06 **** Incremental Build of configuration Debug for project lab2.5_lab3 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.5_lab3.o" "..\\src\\lab2.5_lab3.c" 
+gcc -o lab2.5_lab3.exe "src\\lab2.5_lab3.o" 
+Info: Nothing to build for lab2.5_lab3
+00:50:37 **** Incremental Build of configuration Debug for project lab2.5_lab3 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.5_lab3.o" "..\\src\\lab2.5_lab3.c" 
+gcc -o lab2.5_lab3.exe "src\\lab2.5_lab3.o" 
+Info: Nothing to build for lab2.5_lab3
+Info: Nothing to build for lab2.5_lab3
+Info: Nothing to build for lab2.5_lab3
+00:55:53 **** Incremental Build of configuration Debug for project lab2.5_lab3 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.5_lab3.o" "..\\src\\lab2.5_lab3.c" 
+gcc -o lab2.5_lab3.exe "src\\lab2.5_lab3.o" 
+Info: Nothing to build for lab2.5_lab3
+Info: Nothing to build for lab2.5_lab3
+Info: Nothing to build for lab2.5_lab3
+Info: Nothing to build for lab2.5_lab3
+01:21:54 **** Rebuild of configuration Debug for project lab2.5_lab4 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.5_lab4.o" "..\\src\\lab2.5_lab4.c" 
+gcc -o lab2.5_lab4.exe "src\\lab2.5_lab4.o" 
+Info: Nothing to build for lab2.5_lab4
+Info: Nothing to build for lab2.5_lab4
+01:23:33 **** Incremental Build of configuration Debug for project lab2.5_lab4 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.5_lab4.o" "..\\src\\lab2.5_lab4.c" 
+gcc -o lab2.5_lab4.exe "src\\lab2.5_lab4.o" 
+Info: Nothing to build for lab2.5_lab4
+01:24:08 **** Incremental Build of configuration Debug for project lab2.5_lab4 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.5_lab4.o" "..\\src\\lab2.5_lab4.c" 
+gcc -o lab2.5_lab4.exe "src\\lab2.5_lab4.o" 
+01:26:49 **** Incremental Build of configuration Debug for project lab2.5_lab4 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.5_lab4.o" "..\\src\\lab2.5_lab4.c" 
+gcc -o lab2.5_lab4.exe "src\\lab2.5_lab4.o" 
+Info: Nothing to build for lab2.5_lab4
+01:27:55 **** Incremental Build of configuration Debug for project lab2.5_lab4 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.5_lab4.o" "..\\src\\lab2.5_lab4.c" 
+gcc -o lab2.5_lab4.exe "src\\lab2.5_lab4.o" 
+Info: Nothing to build for lab2.5_lab4
+01:28:47 **** Incremental Build of configuration Debug for project lab2.5_lab4 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.5_lab4.o" "..\\src\\lab2.5_lab4.c" 
+gcc -o lab2.5_lab4.exe "src\\lab2.5_lab4.o" 
+Info: Nothing to build for lab2.5_lab4

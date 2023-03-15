@@ -1,0 +1,38 @@
+/*
+ ============================================================================
+ Name        : 3_ex15.c
+ Author      : Abdelrahman Mamdouh
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+
+int main(void) {
+	while (1) {
+		char op;
+		float num1, num2, res;
+		printf("Enter an arithmetic operation from the following:\n"
+				" '*' '/' '+' '-' ");
+		fflush(stdin);
+		fflush(stdout);
+		scanf("%d", &op);
+		switch (op) {
+		case *:
+			printf("Enter two operands:");
+			fflush(stdin);
+			fflush(stdout);
+			scanf("%f %f", num1, num2);
+			res = num1 * num2;
+			printf("the result = %f", res);
+			break;
+
+		default:
+			printf("Error: Enter '*' or '/' or '+' or '-' ");
+		}
+
+	}
+	return 0;
+}

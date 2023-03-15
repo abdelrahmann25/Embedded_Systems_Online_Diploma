@@ -1,0 +1,7 @@
+22:49:02 **** Incremental Build of configuration Debug for project as2.4_ex8 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as2.4_ex8.o" "..\\src\\as2.4_ex8.c" 
+gcc -o as2.4_ex8.exe "src\\as2.4_ex8.o" 
+
+22:49:03 Build Finished (took 415ms)
+

@@ -1,0 +1,34 @@
+/*
+ ============================================================================
+
+ Name        : 4_lab10.c
+ Author      : Abdelrahman Mamdouh
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void) {
+	float id[10];
+	float selected_id[10];
+	int i, s = 0;
+	printf("%.2f",selected_id);
+	for (i = 0; i < 10; i++) {
+		id[i] = rand() % 10;
+	}
+	for (i = 0; i < 10; i++) {
+		if (id[i] <= id[i-1] && id[i] >= id[i+1])
+				{
+					selected_id[s]=id[i];
+					s++;
+				}
+			}
+	printf("\nSelected Values are: \n");
+	printf("%.2f",selected_id);
+
+		return 0;
+	}

@@ -1,0 +1,30 @@
+/*
+ ============================================================================
+ Name        : 3_ex12.c
+ Author      : Abdelrahman Mamdouh
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+
+
+int main(void) {
+	while(1)
+	{
+		char alpha;
+
+	printf("Enter a character: ");
+		fflush(stdin); fflush(stdout);
+		scanf("%c",&alpha );
+		if(isalpha(alpha))
+			printf("%c is an alphabet/n",alpha);
+		else if (!isalpha(alpha))
+			printf("%c is not an alphabet", alpha);
+
+
+	}
+	return 0;
+}

@@ -1,0 +1,32 @@
+/*
+ ============================================================================
+ Name        : 5_lab1.c
+ Author      : Abdelrahman Mamdouh
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int factorial(int num) {
+	if (num > 0) {
+		int i, factorial = 1;
+
+		for (i = num; i > 0; i--) {
+			factorial *= i;
+			return (factorial);
+		}
+	} else {
+		return (0);
+	}
+}
+
+int main(void) {
+
+	printf("%d", factorial(5));
+
+	return EXIT_SUCCESS;
+}

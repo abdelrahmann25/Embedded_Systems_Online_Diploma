@@ -1,0 +1,36 @@
+/*
+ ============================================================================
+ Name        : 5_ex3.c
+ Author      : Abdelrahman Mamdouh
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+
+void reverse(char array[], int len)
+{
+	int i = 0;
+	char tmp;
+	tmp = array[len];
+	array[len] = array [i];
+	array[i] = tmp;
+	i++;
+	reverse(array, --len);
+	//return (array);
+}
+
+int main(void) {
+	char array[100];
+	printf("Enter String to be reversed:");
+	fflush(stdin); fflush(stdout);
+	gets(array);
+	fflush(stdin); fflush(stdout);
+	reverse(array, strlen(array));
+	printf("The string after reversing:\n%s", array);
+	return EXIT_SUCCESS;
+}

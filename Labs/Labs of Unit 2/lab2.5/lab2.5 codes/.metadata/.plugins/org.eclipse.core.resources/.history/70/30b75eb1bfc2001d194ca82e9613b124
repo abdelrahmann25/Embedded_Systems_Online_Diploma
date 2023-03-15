@@ -1,0 +1,29 @@
+/*
+ ============================================================================
+ Name        : 5_lab4.c
+ Author      : Abdelrahman Mamdouh
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+void print0_9(void)
+{
+int i,j;
+for (i = 0; i < 0; i++)
+{
+	for (j = i; j >= 0; j--)
+	{
+		printf("%d ", i);
+	}
+	printf("\n");
+}
+}
+int main(void) {
+	print0_9();
+	return EXIT_SUCCESS;
+}

@@ -1,0 +1,775 @@
+05:17:41 **** Incremental Build of configuration Debug for project as2.3_ex2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as2.3_ex2.o" "..\\src\\as2.3_ex2.c" 
+gcc -o as2.3_ex2.exe "src\\as2.3_ex2.o" 
+Info: Nothing to build for as2.3_ex2
+05:23:57 **** Rebuild of configuration Debug for project as2.3_ex3 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as2.3_ex3.o" "..\\src\\as2.3_ex3.c" 
+..\src\as2.3_ex3.c: In function 'main':
+..\src\as2.3_ex3.c:16:22: error: invalid operands to binary & (have 'int *' and 'int')
+  scanf("%d %d",&num1 &num2);
+                ~~~~~ ^
+05:25:14 **** Incremental Build of configuration Debug for project as2.3_ex3 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as2.3_ex3.o" "..\\src\\as2.3_ex3.c" 
+gcc -o as2.3_ex3.exe "src\\as2.3_ex3.o" 
+Info: Nothing to build for as2.3_ex3
+05:26:31 **** Incremental Build of configuration Debug for project as2.3_ex3 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as2.3_ex3.o" "..\\src\\as2.3_ex3.c" 
+gcc -o as2.3_ex3.exe "src\\as2.3_ex3.o" 
+Info: Nothing to build for as2.3_ex3
+05:27:03 **** Incremental Build of configuration Debug for project as2.3_ex3 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as2.3_ex3.o" "..\\src\\as2.3_ex3.c" 
+gcc -o as2.3_ex3.exe "src\\as2.3_ex3.o" 
+Info: Nothing to build for as2.3_ex3
+Info: Nothing to build for as2.3_ex3
+05:27:52 **** Incremental Build of configuration Debug for project as2.3_ex3 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as2.3_ex3.o" "..\\src\\as2.3_ex3.c" 
+gcc -o as2.3_ex3.exe "src\\as2.3_ex3.o" 
+Info: Nothing to build for as2.3_ex3
+05:51:07 **** Rebuild of configuration Debug for project as2.3_ex4 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as2.3_ex4.o" "..\\src\\as2.3_ex4.c" 
+gcc -o as2.3_ex4.exe "src\\as2.3_ex4.o" 
+Info: Nothing to build for as2.3_ex4
+Info: Nothing to build for as2.3_ex4
+05:53:12 **** Rebuild of configuration Debug for project as2.3_ex5 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as2.3_ex5.o" "..\\src\\as2.3_ex5.c" 
+gcc -o as2.3_ex5.exe "src\\as2.3_ex5.o" 
+06:03:32 **** Incremental Build of configuration Debug for project as2.3_ex5 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as2.3_ex5.o" "..\\src\\as2.3_ex5.c" 
+..\src\as2.3_ex5.c: In function 'main':
+..\src\as2.3_ex5.c:17:10: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'int' [-Wformat=]
+  scanf("%d",letter);
+          ^
+..\src\as2.3_ex5.c:17:2: warning: 'letter' is used uninitialized in this function [-Wuninitialized]
+  scanf("%d",letter);
+  ^~~~~~~~~~~~~~~~~~
+gcc -o as2.3_ex5.exe "src\\as2.3_ex5.o" 
+Info: Nothing to build for as2.3_ex5
+06:04:28 **** Incremental Build of configuration Debug for project as2.3_ex5 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as2.3_ex5.o" "..\\src\\as2.3_ex5.c" 
+gcc -o as2.3_ex5.exe "src\\as2.3_ex5.o" 
+Info: Nothing to build for as2.3_ex5
+06:04:42 **** Incremental Build of configuration Debug for project as2.3_ex5 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as2.3_ex5.o" "..\\src\\as2.3_ex5.c" 
+..\src\as2.3_ex5.c: In function 'main':
+..\src\as2.3_ex5.c:18:41: warning: format '%d' expects argument of type 'int', but argument 2 has type 'int *' [-Wformat=]
+  printf("ASCI Code for this letter is: %d", &letter);
+                                         ^
+gcc -o as2.3_ex5.exe "src\\as2.3_ex5.o" 
+Info: Nothing to build for as2.3_ex5
+06:06:54 **** Incremental Build of configuration Debug for project as2.3_ex5 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as2.3_ex5.o" "..\\src\\as2.3_ex5.c" 
+gcc -o as2.3_ex5.exe "src\\as2.3_ex5.o" 
+Info: Nothing to build for as2.3_ex5
+06:07:11 **** Incremental Build of configuration Debug for project as2.3_ex5 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as2.3_ex5.o" "..\\src\\as2.3_ex5.c" 
+..\src\as2.3_ex5.c: In function 'main':
+..\src\as2.3_ex5.c:17:10: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'char *' [-Wformat=]
+  scanf("%d",&letter);
+          ^
+gcc -o as2.3_ex5.exe "src\\as2.3_ex5.o" 
+Info: Nothing to build for as2.3_ex5
+06:07:39 **** Incremental Build of configuration Debug for project as2.3_ex5 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as2.3_ex5.o" "..\\src\\as2.3_ex5.c" 
+..\src\as2.3_ex5.c: In function 'main':
+..\src\as2.3_ex5.c:17:10: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'char *' [-Wformat=]
+  scanf("%d",&letter);
+          ^
+gcc -o as2.3_ex5.exe "src\\as2.3_ex5.o" 
+Info: Nothing to build for as2.3_ex5
+06:08:50 **** Incremental Build of configuration Debug for project as2.3_ex5 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as2.3_ex5.o" "..\\src\\as2.3_ex5.c" 
+..\src\as2.3_ex5.c: In function 'main':
+..\src\as2.3_ex5.c:17:10: warning: format '%c' expects argument of type 'char *', but argument 2 has type 'int *' [-Wformat=]
+  scanf("%c",&letter);
+          ^
+gcc -o as2.3_ex5.exe "src\\as2.3_ex5.o" 
+Info: Nothing to build for as2.3_ex5
+06:09:28 **** Incremental Build of configuration Debug for project as2.3_ex5 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as2.3_ex5.o" "..\\src\\as2.3_ex5.c" 
+gcc -o as2.3_ex5.exe "src\\as2.3_ex5.o" 
+Info: Nothing to build for as2.3_ex5
+06:09:43 **** Incremental Build of configuration Debug for project as2.3_ex5 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as2.3_ex5.o" "..\\src\\as2.3_ex5.c" 
+gcc -o as2.3_ex5.exe "src\\as2.3_ex5.o" 
+Info: Nothing to build for as2.3_ex5
+Info: Nothing to build for as2.3_ex5
+06:17:57 **** Rebuild of configuration Debug for project as2.3_ex6 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as2.3_ex6.o" "..\\src\\as2.3_ex6.c" 
+..\src\as2.3_ex6.c: In function 'main':
+..\src\as2.3_ex6.c:16:10: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'int' [-Wformat=]
+  scanf("%d",a);
+          ^
+..\src\as2.3_ex6.c:18:10: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'int' [-Wformat=]
+  scanf("%d",b);
+          ^
+..\src\as2.3_ex6.c:16:2: warning: 'a' is used uninitialized in this function [-Wuninitialized]
+  scanf("%d",a);
+  ^~~~~~~~~~~~~
+..\src\as2.3_ex6.c:18:2: warning: 'b' is used uninitialized in this function [-Wuninitialized]
+  scanf("%d",b);
+  ^~~~~~~~~~~~~
+gcc -o as2.3_ex6.exe "src\\as2.3_ex6.o" 
+Info: Nothing to build for as2.3_ex6
+06:18:48 **** Incremental Build of configuration Debug for project as2.3_ex6 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as2.3_ex6.o" "..\\src\\as2.3_ex6.c" 
+..\src\as2.3_ex6.c: In function 'main':
+..\src\as2.3_ex6.c:17:10: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'int' [-Wformat=]
+  scanf("%d",a);
+          ^
+..\src\as2.3_ex6.c:19:10: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'int' [-Wformat=]
+  scanf("%d",b);
+          ^
+..\src\as2.3_ex6.c:17:2: warning: 'a' is used uninitialized in this function [-Wuninitialized]
+  scanf("%d",a);
+  ^~~~~~~~~~~~~
+..\src\as2.3_ex6.c:19:2: warning: 'b' is used uninitialized in this function [-Wuninitialized]
+  scanf("%d",b);
+  ^~~~~~~~~~~~~
+gcc -o as2.3_ex6.exe "src\\as2.3_ex6.o" 
+Info: Nothing to build for as2.3_ex6
+06:19:38 **** Incremental Build of configuration Debug for project as2.3_ex6 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as2.3_ex6.o" "..\\src\\as2.3_ex6.c" 
+..\src\as2.3_ex6.c: In function 'main':
+..\src\as2.3_ex6.c:17:10: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'int' [-Wformat=]
+  scanf("%d",a);
+          ^
+..\src\as2.3_ex6.c:21:10: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'int' [-Wformat=]
+  scanf("%d",b);
+          ^
+..\src\as2.3_ex6.c:17:2: warning: 'a' is used uninitialized in this function [-Wuninitialized]
+  scanf("%d",a);
+  ^~~~~~~~~~~~~
+..\src\as2.3_ex6.c:21:2: warning: 'b' is used uninitialized in this function [-Wuninitialized]
+  scanf("%d",b);
+  ^~~~~~~~~~~~~
+gcc -o as2.3_ex6.exe "src\\as2.3_ex6.o" 
+Info: Nothing to build for as2.3_ex6
+06:20:29 **** Incremental Build of configuration Debug for project as2.3_ex6 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as2.3_ex6.o" "..\\src\\as2.3_ex6.c" 
+gcc -o as2.3_ex6.exe "src\\as2.3_ex6.o" 
+Info: Nothing to build for as2.3_ex6
+06:20:56 **** Incremental Build of configuration Debug for project as2.3_ex6 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as2.3_ex6.o" "..\\src\\as2.3_ex6.c" 
+gcc -o as2.3_ex6.exe "src\\as2.3_ex6.o" 
+Info: Nothing to build for as2.3_ex6
+06:21:18 **** Incremental Build of configuration Debug for project as2.3_ex6 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as2.3_ex6.o" "..\\src\\as2.3_ex6.c" 
+gcc -o as2.3_ex6.exe "src\\as2.3_ex6.o" 
+Info: Nothing to build for as2.3_ex6
+06:22:13 **** Incremental Build of configuration Debug for project as2.3_ex6 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as2.3_ex6.o" "..\\src\\as2.3_ex6.c" 
+gcc -o as2.3_ex6.exe "src\\as2.3_ex6.o" 
+Info: Nothing to build for as2.3_ex6
+06:22:34 **** Incremental Build of configuration Debug for project as2.3_ex6 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as2.3_ex6.o" "..\\src\\as2.3_ex6.c" 
+gcc -o as2.3_ex6.exe "src\\as2.3_ex6.o" 
+Info: Nothing to build for as2.3_ex6
+06:23:03 **** Incremental Build of configuration Debug for project as2.3_ex6 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as2.3_ex6.o" "..\\src\\as2.3_ex6.c" 
+gcc -o as2.3_ex6.exe "src\\as2.3_ex6.o" 
+Info: Nothing to build for as2.3_ex6
+06:23:41 **** Incremental Build of configuration Debug for project as2.3_ex6 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as2.3_ex6.o" "..\\src\\as2.3_ex6.c" 
+gcc -o as2.3_ex6.exe "src\\as2.3_ex6.o" 
+Info: Nothing to build for as2.3_ex6
+Info: Nothing to build for as2.3_ex6
+06:25:28 **** Rebuild of configuration Debug for project as2.3_ex7 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as2.3_ex7.o" "..\\src\\as2.3_ex7.c" 
+gcc -o as2.3_ex7.exe "src\\as2.3_ex7.o" 
+Info: Nothing to build for as2.3_ex7
+06:39:56 **** Rebuild of configuration Debug for project as2.3_ex8 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as2.3_ex8.o" "..\\src\\as2.3_ex8.c" 
+gcc -o as2.3_ex8.exe "src\\as2.3_ex8.o" 
+Info: Nothing to build for as2.3_ex8
+Info: Nothing to build for as2.3_ex8
+06:41:05 **** Incremental Build of configuration Debug for project as2.3_ex8 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as2.3_ex8.o" "..\\src\\as2.3_ex8.c" 
+gcc -o as2.3_ex8.exe "src\\as2.3_ex8.o" 
+Info: Nothing to build for as2.3_ex8
+Info: Nothing to build for as2.3_ex8
+06:41:46 **** Incremental Build of configuration Debug for project as2.3_ex8 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as2.3_ex8.o" "..\\src\\as2.3_ex8.c" 
+gcc -o as2.3_ex8.exe "src\\as2.3_ex8.o" 
+Info: Nothing to build for as2.3_ex8
+06:42:17 **** Incremental Build of configuration Debug for project as2.3_ex8 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as2.3_ex8.o" "..\\src\\as2.3_ex8.c" 
+gcc -o as2.3_ex8.exe "src\\as2.3_ex8.o" 
+Info: Nothing to build for as2.3_ex8
+07:03:32 **** Rebuild of configuration Debug for project as2.3_ex9 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as2.3_ex9.o" "..\\src\\as2.3_ex9.c" 
+..\src\as2.3_ex9.c: In function 'main':
+..\src\as2.3_ex9.c:15:6: warning: unused variable 'num' [-Wunused-variable]
+  int num;
+      ^~~
+gcc -o as2.3_ex9.exe "src\\as2.3_ex9.o" 
+Info: Nothing to build for as2.3_ex9
+07:05:13 **** Incremental Build of configuration Debug for project as2.3_ex9 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as2.3_ex9.o" "..\\src\\as2.3_ex9.c" 
+gcc -o as2.3_ex9.exe "src\\as2.3_ex9.o" 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file as2.3_ex9.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+07:05:25 **** Incremental Build of configuration Debug for project as2.3_ex9 ****
+Info: Internal Builder is used for build
+gcc -o as2.3_ex9.exe "src\\as2.3_ex9.o" 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file as2.3_ex9.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+07:05:37 **** Incremental Build of configuration Debug for project as2.3_ex9 ****
+Info: Internal Builder is used for build
+gcc -o as2.3_ex9.exe "src\\as2.3_ex9.o" 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file as2.3_ex9.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+07:06:29 **** Incremental Build of configuration Debug for project as2.3_ex9 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as2.3_ex9.o" "..\\src\\as2.3_ex9.c" 
+..\src\as2.3_ex9.c: In function 'main':
+..\src\as2.3_ex9.c:21:2: error: too many arguments to function 'getchar'
+  getchar(alpha);
+  ^~~~~~~
+In file included from ..\src\as2.3_ex9.c:11:0:
+c:\mingw\include\stdio.h:709:43: note: declared here
+ __CRT_INLINE __cdecl __MINGW_NOTHROW  int getchar (void)
+                                           ^~~~~~~
+07:12:05 **** Incremental Build of configuration Debug for project as2.3_ex9 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as2.3_ex9.o" "..\\src\\as2.3_ex9.c" 
+gcc -o as2.3_ex9.exe "src\\as2.3_ex9.o" 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file as2.3_ex9.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+07:12:41 **** Incremental Build of configuration Debug for project as2.3_ex9 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as2.3_ex9.o" "..\\src\\as2.3_ex9.c" 
+gcc -o as2.3_ex9.exe "src\\as2.3_ex9.o" 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file as2.3_ex9.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+07:12:47 **** Incremental Build of configuration Debug for project as2.3_ex9 ****
+Info: Internal Builder is used for build
+gcc -o as2.3_ex9.exe "src\\as2.3_ex9.o" 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file as2.3_ex9.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+07:51:36 **** Incremental Build of configuration Debug for project as2.3_ex9 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as2.3_ex9.o" "..\\src\\as2.3_ex9.c" 
+..\src\as2.3_ex9.c: In function 'main':
+..\src\as2.3_ex9.c:22:7: warning: implicit declaration of function 'isalpha' [-Wimplicit-function-declaration]
+  if (!isalpha(alpha))
+       ^~~~~~~
+gcc -o as2.3_ex9.exe "src\\as2.3_ex9.o" 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file as2.3_ex9.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+07:51:44 **** Incremental Build of configuration Debug for project as2.3_ex9 ****
+Info: Internal Builder is used for build
+gcc -o as2.3_ex9.exe "src\\as2.3_ex9.o" 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file as2.3_ex9.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+07:52:36 **** Incremental Build of configuration Debug for project as2.3_ex9 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as2.3_ex9.o" "..\\src\\as2.3_ex9.c" 
+..\src\as2.3_ex9.c: In function 'main':
+..\src\as2.3_ex9.c:22:6: warning: implicit declaration of function 'isalpha' [-Wimplicit-function-declaration]
+  if (isalpha(alpha))
+      ^~~~~~~
+gcc -o as2.3_ex9.exe "src\\as2.3_ex9.o" 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file as2.3_ex9.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+07:52:39 **** Incremental Build of configuration Debug for project as2.3_ex9 ****
+Info: Internal Builder is used for build
+gcc -o as2.3_ex9.exe "src\\as2.3_ex9.o" 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file as2.3_ex9.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+07:54:55 **** Incremental Build of configuration Debug for project as2.3_ex9 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as2.3_ex9.o" "..\\src\\as2.3_ex9.c" 
+gcc -o as2.3_ex9.exe "src\\as2.3_ex9.o" 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file as2.3_ex9.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+07:54:57 **** Incremental Build of configuration Debug for project as2.3_ex9 ****
+Info: Internal Builder is used for build
+gcc -o as2.3_ex9.exe "src\\as2.3_ex9.o" 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file as2.3_ex9.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+07:57:03 **** Incremental Build of configuration Debug for project as2.3_ex9 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as2.3_ex9.o" "..\\src\\as2.3_ex9.c" 
+gcc -o as2.3_ex9.exe "src\\as2.3_ex9.o" 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file as2.3_ex9.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+07:57:10 **** Incremental Build of configuration Debug for project as2.3_ex9 ****
+Info: Internal Builder is used for build
+gcc -o as2.3_ex9.exe "src\\as2.3_ex9.o" 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file as2.3_ex9.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+07:59:20 **** Incremental Build of configuration Debug for project as2.3_ex9 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as2.3_ex9.o" "..\\src\\as2.3_ex9.c" 
+gcc -o as2.3_ex9.exe "src\\as2.3_ex9.o" 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file as2.3_ex9.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+07:59:25 **** Incremental Build of configuration Debug for project as2.3_ex9 ****
+Info: Internal Builder is used for build
+gcc -o as2.3_ex9.exe "src\\as2.3_ex9.o" 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file as2.3_ex9.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+08:00:33 **** Incremental Build of configuration Debug for project as2.3_ex9 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as2.3_ex9.o" "..\\src\\as2.3_ex9.c" 
+gcc -o as2.3_ex9.exe "src\\as2.3_ex9.o" 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file as2.3_ex9.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+08:00:41 **** Incremental Build of configuration Debug for project as2.3_ex9 ****
+Info: Internal Builder is used for build
+gcc -o as2.3_ex9.exe "src\\as2.3_ex9.o" 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file as2.3_ex9.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+08:01:07 **** Incremental Build of configuration Debug for project as2.3_ex9 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as2.3_ex9.o" "..\\src\\as2.3_ex9.c" 
+gcc -o as2.3_ex9.exe "src\\as2.3_ex9.o" 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file as2.3_ex9.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+08:01:10 **** Incremental Build of configuration Debug for project as2.3_ex9 ****
+Info: Internal Builder is used for build
+gcc -o as2.3_ex9.exe "src\\as2.3_ex9.o" 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file as2.3_ex9.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+08:02:06 **** Incremental Build of configuration Debug for project as2.3_ex9 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as2.3_ex9.o" "..\\src\\as2.3_ex9.c" 
+gcc -o as2.3_ex9.exe "src\\as2.3_ex9.o" 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file as2.3_ex9.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+08:02:10 **** Incremental Build of configuration Debug for project as2.3_ex9 ****
+Info: Internal Builder is used for build
+gcc -o as2.3_ex9.exe "src\\as2.3_ex9.o" 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file as2.3_ex9.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+08:04:30 **** Incremental Build of configuration Debug for project as2.3_ex9 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as2.3_ex9.o" "..\\src\\as2.3_ex9.c" 
+gcc -o as2.3_ex9.exe "src\\as2.3_ex9.o" 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file as2.3_ex9.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+08:04:49 **** Incremental Build of configuration Debug for project as2.3_ex9 ****
+Info: Internal Builder is used for build
+gcc -o as2.3_ex9.exe "src\\as2.3_ex9.o" 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file as2.3_ex9.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+08:05:15 **** Incremental Build of configuration Debug for project as2.3_ex9 ****
+Info: Internal Builder is used for build
+gcc -o as2.3_ex9.exe "src\\as2.3_ex9.o" 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file as2.3_ex9.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+08:12:34 **** Rebuild of configuration Debug for project as2.3_ex9 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as2.3_ex9.o" "..\\src\\as2.3_ex9.c" 
+gcc -o as2.3_ex9.exe "src\\as2.3_ex9.o" 
+Info: Nothing to build for as2.3_ex9
+Info: Nothing to build for as2.3_ex9
+08:13:20 **** Incremental Build of configuration Debug for project as2.3_ex9 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as2.3_ex9.o" "..\\src\\as2.3_ex9.c" 
+gcc -o as2.3_ex9.exe "src\\as2.3_ex9.o" 
+Info: Nothing to build for as2.3_ex9
+08:13:58 **** Incremental Build of configuration Debug for project as2.3_ex9 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as2.3_ex9.o" "..\\src\\as2.3_ex9.c" 
+gcc -o as2.3_ex9.exe "src\\as2.3_ex9.o" 
+Info: Nothing to build for as2.3_ex9
+08:27:09 **** Rebuild of configuration Debug for project as2.3_ex10 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as2.3_ex10.o" "..\\src\\as2.3_ex10.c" 
+..\src\as2.3_ex10.c: In function 'main':
+..\src\as2.3_ex10.c:21:26: error: invalid operands to binary & (have 'float *' and 'float')
+  scanf("%f %f %f", &num1 &num2 &num3 );
+                    ~~~~~ ^
+08:27:38 **** Incremental Build of configuration Debug for project as2.3_ex10 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as2.3_ex10.o" "..\\src\\as2.3_ex10.c" 
+gcc -o as2.3_ex10.exe "src\\as2.3_ex10.o" 
+Info: Nothing to build for as2.3_ex10
+08:30:01 **** Incremental Build of configuration Debug for project as2.3_ex10 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as2.3_ex10.o" "..\\src\\as2.3_ex10.c" 
+..\src\as2.3_ex10.c: In function 'main':
+..\src\as2.3_ex10.c:22:11: warning: comparisons like 'X<=Y<=Z' do not have their mathematical meaning [-Wparentheses]
+  if (num1 >= num2 >= num3 || num1 >= num3 >= num2)
+      ~~~~~^~~~~~~
+..\src\as2.3_ex10.c:22:35: warning: comparisons like 'X<=Y<=Z' do not have their mathematical meaning [-Wparentheses]
+  if (num1 >= num2 >= num3 || num1 >= num3 >= num2)
+                              ~~~~~^~~~~~~
+..\src\as2.3_ex10.c:24:17: warning: comparisons like 'X<=Y<=Z' do not have their mathematical meaning [-Wparentheses]
+  else if ((num2 >= num1 >= num3 || num2 >= num3 >= num1)
+            ~~~~~^~~~~~~
+..\src\as2.3_ex10.c:24:41: warning: comparisons like 'X<=Y<=Z' do not have their mathematical meaning [-Wparentheses]
+  else if ((num2 >= num1 >= num3 || num2 >= num3 >= num1)
+                                    ~~~~~^~~~~~~
+..\src\as2.3_ex10.c:25:3: error: expected ')' before 'printf'
+   printf("The largest number is: %f \n", num2);
+   ^~~~~~
+..\src\as2.3_ex10.c:28:1: error: expected expression before '}' token
+ }
+ ^
+08:33:01 **** Incremental Build of configuration Debug for project as2.3_ex10 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as2.3_ex10.o" "..\\src\\as2.3_ex10.c" 
+..\src\as2.3_ex10.c: In function 'main':
+..\src\as2.3_ex10.c:26:17: warning: comparisons like 'X<=Y<=Z' do not have their mathematical meaning [-Wparentheses]
+  else if ((num2 >= num1 >= num3 || num2 >= num3 >= num1)
+            ~~~~~^~~~~~~
+..\src\as2.3_ex10.c:26:41: warning: comparisons like 'X<=Y<=Z' do not have their mathematical meaning [-Wparentheses]
+  else if ((num2 >= num1 >= num3 || num2 >= num3 >= num1)
+                                    ~~~~~^~~~~~~
+..\src\as2.3_ex10.c:27:3: error: expected ')' before 'printf'
+   printf("The largest number is: %f \n", num2);
+   ^~~~~~
+..\src\as2.3_ex10.c:30:1: error: expected expression before '}' token
+ }
+ ^
+08:34:41 **** Incremental Build of configuration Debug for project as2.3_ex10 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as2.3_ex10.o" "..\\src\\as2.3_ex10.c" 
+gcc -o as2.3_ex10.exe "src\\as2.3_ex10.o" 
+08:35:50 **** Incremental Build of configuration Debug for project as2.3_ex10 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as2.3_ex10.o" "..\\src\\as2.3_ex10.c" 
+gcc -o as2.3_ex10.exe "src\\as2.3_ex10.o" 
+Info: Nothing to build for as2.3_ex10
+Info: Nothing to build for as2.3_ex10
+09:01:00 **** Rebuild of configuration Debug for project as2.3_ex11 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as2.3_ex11.o" "..\\src\\as2.3_ex11.c" 
+..\src\as2.3_ex11.c: In function 'main':
+..\src\as2.3_ex11.c:22:11: error: invalid operands to binary >> (have 'float' and 'int')
+   if (num >> 0)
+           ^~
+..\src\as2.3_ex11.c:24:16: error: invalid operands to binary << (have 'float' and 'int')
+   else if (num << 0)
+                ^~
+09:01:25 **** Incremental Build of configuration Debug for project as2.3_ex11 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as2.3_ex11.o" "..\\src\\as2.3_ex11.c" 
+..\src\as2.3_ex11.c: In function 'main':
+..\src\as2.3_ex11.c:22:11: error: invalid operands to binary >> (have 'float' and 'double')
+   if (num >> 0.0)
+           ^~
+..\src\as2.3_ex11.c:24:16: error: invalid operands to binary << (have 'float' and 'double')
+   else if (num << 0.0)
+                ^~
+09:02:05 **** Incremental Build of configuration Debug for project as2.3_ex11 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as2.3_ex11.o" "..\\src\\as2.3_ex11.c" 
+..\src\as2.3_ex11.c: In function 'main':
+..\src\as2.3_ex11.c:21:11: warning: format '%f' expects argument of type 'float *', but argument 2 has type 'double *' [-Wformat=]
+   scanf("%f",&num );
+           ^
+..\src\as2.3_ex11.c:22:11: error: invalid operands to binary >> (have 'double' and 'double')
+   if (num >> 0.0)
+           ^~
+..\src\as2.3_ex11.c:24:16: error: invalid operands to binary << (have 'double' and 'double')
+   else if (num << 0.0)
+                ^~
+09:02:27 **** Incremental Build of configuration Debug for project as2.3_ex11 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as2.3_ex11.o" "..\\src\\as2.3_ex11.c" 
+..\src\as2.3_ex11.c: In function 'main':
+..\src\as2.3_ex11.c:22:11: error: invalid operands to binary >> (have 'float' and 'double')
+   if (num >> 0.0)
+           ^~
+..\src\as2.3_ex11.c:24:16: error: invalid operands to binary << (have 'float' and 'double')
+   else if (num << 0.0)
+                ^~
+09:03:23 **** Incremental Build of configuration Debug for project as2.3_ex11 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as2.3_ex11.o" "..\\src\\as2.3_ex11.c" 
+..\src\as2.3_ex11.c: In function 'main':
+..\src\as2.3_ex11.c:22:11: error: invalid operands to binary >> (have 'float' and 'int')
+   if (num >> 0)
+           ^~
+..\src\as2.3_ex11.c:24:16: error: invalid operands to binary << (have 'float' and 'int')
+   else if (num << 0)
+                ^~
+09:04:22 **** Incremental Build of configuration Debug for project as2.3_ex11 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as2.3_ex11.o" "..\\src\\as2.3_ex11.c" 
+..\src\as2.3_ex11.c: In function 'main':
+..\src\as2.3_ex11.c:23:11: error: invalid operands to binary >> (have 'float' and 'float')
+   if (num >> f)
+           ^~
+..\src\as2.3_ex11.c:25:16: error: invalid operands to binary << (have 'float' and 'float')
+   else if (num << f)
+                ^~
+09:10:22 **** Incremental Build of configuration Debug for project as2.3_ex11 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as2.3_ex11.o" "..\\src\\as2.3_ex11.c" 
+gcc -o as2.3_ex11.exe "src\\as2.3_ex11.o" 
+Info: Nothing to build for as2.3_ex11
+09:11:41 **** Incremental Build of configuration Debug for project as2.3_ex11 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as2.3_ex11.o" "..\\src\\as2.3_ex11.c" 
+gcc -o as2.3_ex11.exe "src\\as2.3_ex11.o" 
+Info: Nothing to build for as2.3_ex11
+09:23:37 **** Rebuild of configuration Debug for project as2.3_ex12 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as2.3_ex12.o" "..\\src\\as2.3_ex12.c" 
+..\src\as2.3_ex12.c: In function 'main':
+..\src\as2.3_ex12.c:22:6: warning: implicit declaration of function 'isalpha' [-Wimplicit-function-declaration]
+   if(isalpha(alpha))
+      ^~~~~~~
+gcc -o as2.3_ex12.exe "src\\as2.3_ex12.o" 
+Info: Nothing to build for as2.3_ex12
+09:23:57 **** Incremental Build of configuration Debug for project as2.3_ex12 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as2.3_ex12.o" "..\\src\\as2.3_ex12.c" 
+..\src\as2.3_ex12.c: In function 'main':
+..\src\as2.3_ex12.c:22:6: warning: implicit declaration of function 'isalpha' [-Wimplicit-function-declaration]
+   if(isalpha(alpha))
+      ^~~~~~~
+gcc -o as2.3_ex12.exe "src\\as2.3_ex12.o" 
+Info: Nothing to build for as2.3_ex12
+09:24:16 **** Incremental Build of configuration Debug for project as2.3_ex12 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as2.3_ex12.o" "..\\src\\as2.3_ex12.c" 
+..\src\as2.3_ex12.c: In function 'main':
+..\src\as2.3_ex12.c:22:6: warning: implicit declaration of function 'isalpha' [-Wimplicit-function-declaration]
+   if(isalpha(alpha))
+      ^~~~~~~
+gcc -o as2.3_ex12.exe "src\\as2.3_ex12.o" 
+Info: Nothing to build for as2.3_ex12
+09:25:01 **** Incremental Build of configuration Debug for project as2.3_ex12 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as2.3_ex12.o" "..\\src\\as2.3_ex12.c" 
+..\src\as2.3_ex12.c: In function 'main':
+..\src\as2.3_ex12.c:22:6: warning: implicit declaration of function 'isalpha' [-Wimplicit-function-declaration]
+   if(isalpha(alpha))
+      ^~~~~~~
+gcc -o as2.3_ex12.exe "src\\as2.3_ex12.o" 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file as2.3_ex12.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+09:25:03 **** Incremental Build of configuration Debug for project as2.3_ex12 ****
+Info: Internal Builder is used for build
+gcc -o as2.3_ex12.exe "src\\as2.3_ex12.o" 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file as2.3_ex12.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+09:25:35 **** Incremental Build of configuration Debug for project as2.3_ex12 ****
+Info: Internal Builder is used for build
+gcc -o as2.3_ex12.exe "src\\as2.3_ex12.o" 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file as2.3_ex12.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+09:26:01 **** Incremental Build of configuration Debug for project as2.3_ex12 ****
+Info: Internal Builder is used for build
+gcc -o as2.3_ex12.exe "src\\as2.3_ex12.o" 
+Info: Nothing to build for as2.3_ex12
+09:35:33 **** Rebuild of configuration Debug for project as2.3_ex13 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as2.3_ex13.o" "..\\src\\as2.3_ex13.c" 
+..\src\as2.3_ex13.c: In function 'main':
+..\src\as2.3_ex13.c:27:2: error: expected ';' before '}' token
+  }
+  ^
+09:35:42 **** Incremental Build of configuration Debug for project as2.3_ex13 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as2.3_ex13.o" "..\\src\\as2.3_ex13.c" 
+gcc -o as2.3_ex13.exe "src\\as2.3_ex13.o" 
+Info: Nothing to build for as2.3_ex13
+09:36:24 **** Incremental Build of configuration Debug for project as2.3_ex13 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as2.3_ex13.o" "..\\src\\as2.3_ex13.c" 
+gcc -o as2.3_ex13.exe "src\\as2.3_ex13.o" 
+Info: Nothing to build for as2.3_ex13
+09:40:40 **** Rebuild of configuration Debug for project as2.3_ex14 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as2.3_ex14.o" "..\\src\\as2.3_ex14.c" 
+gcc -o as2.3_ex14.exe "src\\as2.3_ex14.o" 
+Info: Nothing to build for as2.3_ex14
+Info: Nothing to build for as2.3_ex14
+Info: Nothing to build for as2.3_ex14
+09:43:29 **** Incremental Build of configuration Debug for project as2.3_ex14 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as2.3_ex14.o" "..\\src\\as2.3_ex14.c" 
+gcc -o as2.3_ex14.exe "src\\as2.3_ex14.o" 
+Info: Nothing to build for as2.3_ex14
+09:44:38 **** Incremental Build of configuration Debug for project as2.3_ex14 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as2.3_ex14.o" "..\\src\\as2.3_ex14.c" 
+..\src\as2.3_ex14.c: In function 'main':
+..\src\as2.3_ex14.c:23:22: warning: operation on 'num' may be undefined [-Wsequence-point]
+    factorial = num * --num;
+                      ^~~~~
+gcc -o as2.3_ex14.exe "src\\as2.3_ex14.o" 
+09:59:21 **** Incremental Build of configuration Debug for project as2.3_ex14 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as2.3_ex14.o" "..\\src\\as2.3_ex14.c" 
+..\src\as2.3_ex14.c: In function 'main':
+..\src\as2.3_ex14.c:27:9: warning: operation on 'num' may be undefined [-Wsequence-point]
+     num = num * --num;
+     ~~~~^~~~~~~~~~~~~
+gcc -o as2.3_ex14.exe "src\\as2.3_ex14.o" 
+Info: Nothing to build for as2.3_ex14
+10:02:16 **** Incremental Build of configuration Debug for project as2.3_ex14 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as2.3_ex14.o" "..\\src\\as2.3_ex14.c" 
+..\src\as2.3_ex14.c: In function 'main':
+..\src\as2.3_ex14.c:25:8: warning: operation on 'num' may be undefined [-Wsequence-point]
+    num = num * --num ;
+    ~~~~^~~~~~~~~~~~~
+gcc -o as2.3_ex14.exe "src\\as2.3_ex14.o" 
+Info: Nothing to build for as2.3_ex14
+10:08:05 **** Incremental Build of configuration Debug for project as2.3_ex14 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as2.3_ex14.o" "..\\src\\as2.3_ex14.c" 
+gcc -o as2.3_ex14.exe "src\\as2.3_ex14.o" 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file as2.3_ex14.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+10:08:22 **** Incremental Build of configuration Debug for project as2.3_ex14 ****
+Info: Internal Builder is used for build
+gcc -o as2.3_ex14.exe "src\\as2.3_ex14.o" 
+Info: Nothing to build for as2.3_ex14
+10:12:27 **** Incremental Build of configuration Debug for project as2.3_ex14 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as2.3_ex14.o" "..\\src\\as2.3_ex14.c" 
+gcc -o as2.3_ex14.exe "src\\as2.3_ex14.o" 
+Info: Nothing to build for as2.3_ex14
+10:13:26 **** Incremental Build of configuration Debug for project as2.3_ex14 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as2.3_ex14.o" "..\\src\\as2.3_ex14.c" 
+gcc -o as2.3_ex14.exe "src\\as2.3_ex14.o" 
+Info: Nothing to build for as2.3_ex14
+10:37:39 **** Rebuild of configuration Debug for project as2.3_ex15 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as2.3_ex15.o" "..\\src\\as2.3_ex15.c" 
+..\src\as2.3_ex15.c: In function 'main':
+..\src\as2.3_ex15.c:21:11: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'char *' [-Wformat=]
+   scanf("%d", &op);
+           ^
+..\src\as2.3_ex15.c:27:12: warning: format '%f' expects argument of type 'float *', but argument 2 has type 'double' [-Wformat=]
+    scanf("%f %f", num1, num2);
+            ^
+..\src\as2.3_ex15.c:27:15: warning: format '%f' expects argument of type 'float *', but argument 3 has type 'double' [-Wformat=]
+    scanf("%f %f", num1, num2);
+               ^
+..\src\as2.3_ex15.c:27:4: warning: 'num2' may be used uninitialized in this function [-Wmaybe-uninitialized]
+    scanf("%f %f", num1, num2);
+    ^~~~~~~~~~~~~~~~~~~~~~~~~~
+..\src\as2.3_ex15.c:27:4: warning: 'num1' may be used uninitialized in this function [-Wmaybe-uninitialized]
+gcc -o as2.3_ex15.exe "src\\as2.3_ex15.o" 
+Info: Nothing to build for as2.3_ex15
+10:38:29 **** Incremental Build of configuration Debug for project as2.3_ex15 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as2.3_ex15.o" "..\\src\\as2.3_ex15.c" 
+..\src\as2.3_ex15.c: In function 'main':
+..\src\as2.3_ex15.c:21:11: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'char *' [-Wformat=]
+   scanf("%d", &op);
+           ^
+..\src\as2.3_ex15.c:23:9: error: expected expression before ':' token
+   case *:
+         ^
+..\src\as2.3_ex15.c:27:12: warning: format '%f' expects argument of type 'float *', but argument 2 has type 'double' [-Wformat=]
+    scanf("%f %f", num1, num2);
+            ^
+..\src\as2.3_ex15.c:27:15: warning: format '%f' expects argument of type 'float *', but argument 3 has type 'double' [-Wformat=]
+    scanf("%f %f", num1, num2);
+               ^
+10:40:31 **** Incremental Build of configuration Debug for project as2.3_ex15 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as2.3_ex15.o" "..\\src\\as2.3_ex15.c" 
+..\src\as2.3_ex15.c: In function 'main':
+..\src\as2.3_ex15.c:23:3: error: case label does not reduce to an integer constant
+   case "*":
+   ^~~~
+..\src\as2.3_ex15.c:27:12: warning: format '%f' expects argument of type 'float *', but argument 2 has type 'double' [-Wformat=]
+    scanf("%f %f", num1, num2);
+            ^
+..\src\as2.3_ex15.c:27:15: warning: format '%f' expects argument of type 'float *', but argument 3 has type 'double' [-Wformat=]
+    scanf("%f %f", num1, num2);
+               ^
+10:41:05 **** Incremental Build of configuration Debug for project as2.3_ex15 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as2.3_ex15.o" "..\\src\\as2.3_ex15.c" 
+..\src\as2.3_ex15.c: In function 'main':
+..\src\as2.3_ex15.c:21:11: warning: format '%c' expects argument of type 'char *', but argument 2 has type 'int *' [-Wformat=]
+   scanf("%c", &op);
+           ^
+..\src\as2.3_ex15.c:23:3: error: case label does not reduce to an integer constant
+   case "*":
+   ^~~~
+..\src\as2.3_ex15.c:27:12: warning: format '%f' expects argument of type 'float *', but argument 2 has type 'double' [-Wformat=]
+    scanf("%f %f", num1, num2);
+            ^
+..\src\as2.3_ex15.c:27:15: warning: format '%f' expects argument of type 'float *', but argument 3 has type 'double' [-Wformat=]
+    scanf("%f %f", num1, num2);
+               ^
+10:41:28 **** Incremental Build of configuration Debug for project as2.3_ex15 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as2.3_ex15.o" "..\\src\\as2.3_ex15.c" 
+..\src\as2.3_ex15.c: In function 'main':
+..\src\as2.3_ex15.c:23:3: error: case label does not reduce to an integer constant
+   case "*":
+   ^~~~
+..\src\as2.3_ex15.c:27:12: warning: format '%f' expects argument of type 'float *', but argument 2 has type 'double' [-Wformat=]
+    scanf("%f %f", num1, num2);
+            ^
+..\src\as2.3_ex15.c:27:15: warning: format '%f' expects argument of type 'float *', but argument 3 has type 'double' [-Wformat=]
+    scanf("%f %f", num1, num2);
+               ^
+10:45:50 **** Incremental Build of configuration Debug for project as2.3_ex15 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as2.3_ex15.o" "..\\src\\as2.3_ex15.c" 
+gcc -o as2.3_ex15.exe "src\\as2.3_ex15.o" 
+Info: Nothing to build for as2.3_ex15
+10:47:14 **** Incremental Build of configuration Debug for project as2.3_ex15 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as2.3_ex15.o" "..\\src\\as2.3_ex15.c" 
+gcc -o as2.3_ex15.exe "src\\as2.3_ex15.o" 
+Info: Nothing to build for as2.3_ex15
+10:49:26 **** Incremental Build of configuration Debug for project as2.3_ex15 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as2.3_ex15.o" "..\\src\\as2.3_ex15.c" 
+gcc -o as2.3_ex15.exe "src\\as2.3_ex15.o" 
+Info: Nothing to build for as2.3_ex15
+13:16:45 **** Rebuild of configuration Debug for project test ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\test.o" "..\\src\\test.c" 
+gcc -o test.exe "src\\test.o" 
+Info: Nothing to build for test
+13:22:56 **** Incremental Build of configuration Debug for project test ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\test.o" "..\\src\\test.c" 
+..\src\test.c: In function 'main':
+..\src\test.c:16:7: warning: comparisons like 'X<=Y<=Z' do not have their mathematical meaning [-Wparentheses]
+  if(c > b > a)
+     ~~^~~
+gcc -o test.exe "src\\test.o" 
+Info: Nothing to build for test

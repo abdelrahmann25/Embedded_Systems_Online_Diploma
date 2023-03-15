@@ -1,0 +1,186 @@
+04:48:30 **** Incremental Build of configuration Debug for project as.2.5_ex3 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as.2.5_ex3.o" "..\\src\\as.2.5_ex3.c" 
+gcc -o as.2.5_ex3.exe "src\\as.2.5_ex3.o" 
+Info: Nothing to build for as.2.5_ex3
+04:49:59 **** Incremental Build of configuration Debug for project as.2.5_ex3 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as.2.5_ex3.o" "..\\src\\as.2.5_ex3.c" 
+gcc -o as.2.5_ex3.exe "src\\as.2.5_ex3.o" 
+Info: Nothing to build for as.2.5_ex3
+Info: Nothing to build for as.2.5_ex3
+Info: Nothing to build for as.2.5_ex3
+04:52:36 **** Incremental Build of configuration Debug for project as.2.5_ex3 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as.2.5_ex3.o" "..\\src\\as.2.5_ex3.c" 
+gcc -o as.2.5_ex3.exe "src\\as.2.5_ex3.o" 
+Info: Nothing to build for as.2.5_ex3
+05:23:49 **** Incremental Build of configuration Debug for project as.2.5_ex3 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as.2.5_ex3.o" "..\\src\\as.2.5_ex3.c" 
+gcc -o as.2.5_ex3.exe "src\\as.2.5_ex3.o" 
+Info: Nothing to build for as.2.5_ex3
+05:25:15 **** Incremental Build of configuration Debug for project as.2.5_ex3 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as.2.5_ex3.o" "..\\src\\as.2.5_ex3.c" 
+gcc -o as.2.5_ex3.exe "src\\as.2.5_ex3.o" 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file as.2.5_ex3.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+05:25:18 **** Incremental Build of configuration Debug for project as.2.5_ex3 ****
+Info: Internal Builder is used for build
+gcc -o as.2.5_ex3.exe "src\\as.2.5_ex3.o" 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file as.2.5_ex3.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+05:25:41 **** Incremental Build of configuration Debug for project as.2.5_ex3 ****
+Info: Internal Builder is used for build
+gcc -o as.2.5_ex3.exe "src\\as.2.5_ex3.o" 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file as.2.5_ex3.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+05:25:53 **** Incremental Build of configuration Debug for project as.2.5_ex3 ****
+Info: Internal Builder is used for build
+gcc -o as.2.5_ex3.exe "src\\as.2.5_ex3.o" 
+Info: Nothing to build for as.2.5_ex3
+05:37:20 **** Incremental Build of configuration Debug for project as.2.5_ex3 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as.2.5_ex3.o" "..\\src\\as.2.5_ex3.c" 
+gcc -o as.2.5_ex3.exe "src\\as.2.5_ex3.o" 
+Info: Nothing to build for as.2.5_ex3
+Info: Nothing to build for as.2.5_ex3
+Info: Nothing to build for as.2.5_ex3
+05:42:45 **** Incremental Build of configuration Debug for project as.2.5_ex3 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as.2.5_ex3.o" "..\\src\\as.2.5_ex3.c" 
+gcc -o as.2.5_ex3.exe "src\\as.2.5_ex3.o" 
+Info: Nothing to build for as.2.5_ex3
+05:43:22 **** Incremental Build of configuration Debug for project as.2.5_ex3 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as.2.5_ex3.o" "..\\src\\as.2.5_ex3.c" 
+gcc -o as.2.5_ex3.exe "src\\as.2.5_ex3.o" 
+Info: Nothing to build for as.2.5_ex3
+05:44:27 **** Incremental Build of configuration Debug for project as.2.5_ex3 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as.2.5_ex3.o" "..\\src\\as.2.5_ex3.c" 
+gcc -o as.2.5_ex3.exe "src\\as.2.5_ex3.o" 
+Info: Nothing to build for as.2.5_ex3
+Info: Nothing to build for as.2.5_ex3
+05:45:13 **** Incremental Build of configuration Debug for project as.2.5_ex3 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as.2.5_ex3.o" "..\\src\\as.2.5_ex3.c" 
+gcc -o as.2.5_ex3.exe "src\\as.2.5_ex3.o" 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file as.2.5_ex3.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+05:45:15 **** Incremental Build of configuration Debug for project as.2.5_ex3 ****
+Info: Internal Builder is used for build
+gcc -o as.2.5_ex3.exe "src\\as.2.5_ex3.o" 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file as.2.5_ex3.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+05:45:29 **** Incremental Build of configuration Debug for project as.2.5_ex3 ****
+Info: Internal Builder is used for build
+gcc -o as.2.5_ex3.exe "src\\as.2.5_ex3.o" 
+Info: Nothing to build for as.2.5_ex3
+05:46:18 **** Incremental Build of configuration Debug for project as.2.5_ex3 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as.2.5_ex3.o" "..\\src\\as.2.5_ex3.c" 
+..\src\as.2.5_ex3.c: In function 'reverse':
+..\src\as.2.5_ex3.c:18:14: error: 'i' undeclared (first use in this function)
+  tmp = array[i];
+              ^
+..\src\as.2.5_ex3.c:18:14: note: each undeclared identifier is reported only once for each function it appears in
+..\src\as.2.5_ex3.c:23:2: error: too few arguments to function 'reverse'
+  reverse(array, --len);
+  ^~~~~~~
+..\src\as.2.5_ex3.c:15:6: note: declared here
+ void reverse(char array[], int index, int len)
+      ^~~~~~~
+05:46:30 **** Incremental Build of configuration Debug for project as.2.5_ex3 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as.2.5_ex3.o" "..\\src\\as.2.5_ex3.c" 
+..\src\as.2.5_ex3.c: In function 'reverse':
+..\src\as.2.5_ex3.c:23:2: error: too few arguments to function 'reverse'
+  reverse(array, --len);
+  ^~~~~~~
+..\src\as.2.5_ex3.c:15:6: note: declared here
+ void reverse(char array[], int i, int len)
+      ^~~~~~~
+05:46:43 **** Incremental Build of configuration Debug for project as.2.5_ex3 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as.2.5_ex3.o" "..\\src\\as.2.5_ex3.c" 
+gcc -o as.2.5_ex3.exe "src\\as.2.5_ex3.o" 
+Info: Nothing to build for as.2.5_ex3
+05:47:56 **** Incremental Build of configuration Debug for project as.2.5_ex3 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as.2.5_ex3.o" "..\\src\\as.2.5_ex3.c" 
+gcc -o as.2.5_ex3.exe "src\\as.2.5_ex3.o" 
+Info: Nothing to build for as.2.5_ex3
+05:49:55 **** Incremental Build of configuration Debug for project as.2.5_ex3 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as.2.5_ex3.o" "..\\src\\as.2.5_ex3.c" 
+gcc -o as.2.5_ex3.exe "src\\as.2.5_ex3.o" 
+Info: Nothing to build for as.2.5_ex3
+Info: Nothing to build for as.2.5_ex3
+Info: Nothing to build for as.2.5_ex3
+05:56:48 **** Rebuild of configuration Debug for project as2.5_ex4 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as2.5_ex4.o" "..\\src\\as2.5_ex4.c" 
+gcc -o as2.5_ex4.exe "src\\as2.5_ex4.o" 
+Info: Nothing to build for as2.5_ex4
+06:07:13 **** Incremental Build of configuration Debug for project as2.5_ex4 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as2.5_ex4.o" "..\\src\\as2.5_ex4.c" 
+gcc -o as2.5_ex4.exe "src\\as2.5_ex4.o" 
+Info: Nothing to build for as2.5_ex4
+Info: Nothing to build for as2.5_ex4
+06:08:32 **** Incremental Build of configuration Debug for project as2.5_ex4 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as2.5_ex4.o" "..\\src\\as2.5_ex4.c" 
+gcc -o as2.5_ex4.exe "src\\as2.5_ex4.o" 
+Info: Nothing to build for as2.5_ex4
+06:11:24 **** Incremental Build of configuration Debug for project as2.5_ex4 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as2.5_ex4.o" "..\\src\\as2.5_ex4.c" 
+gcc -o as2.5_ex4.exe "src\\as2.5_ex4.o" 
+Info: Nothing to build for as2.5_ex4
+06:12:31 **** Incremental Build of configuration Debug for project as2.5_ex4 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as2.5_ex4.o" "..\\src\\as2.5_ex4.c" 
+..\src\as2.5_ex4.c: In function 'calc_power':
+..\src\as2.5_ex4.c:23:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+gcc -o as2.5_ex4.exe "src\\as2.5_ex4.o" 
+06:13:02 **** Incremental Build of configuration Debug for project as2.5_ex4 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as2.5_ex4.o" "..\\src\\as2.5_ex4.c" 
+..\src\as2.5_ex4.c: In function 'calc_power':
+..\src\as2.5_ex4.c:22:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+gcc -o as2.5_ex4.exe "src\\as2.5_ex4.o" 
+06:13:34 **** Incremental Build of configuration Debug for project as2.5_ex4 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as2.5_ex4.o" "..\\src\\as2.5_ex4.c" 
+gcc -o as2.5_ex4.exe "src\\as2.5_ex4.o" 
+Info: Nothing to build for as2.5_ex4
+06:16:17 **** Incremental Build of configuration Debug for project as2.5_ex4 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as2.5_ex4.o" "..\\src\\as2.5_ex4.c" 
+gcc -o as2.5_ex4.exe "src\\as2.5_ex4.o" 
+Info: Nothing to build for as2.5_ex4
+Info: Nothing to build for as2.5_ex4
+06:17:01 **** Incremental Build of configuration Debug for project as2.5_ex4 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as2.5_ex4.o" "..\\src\\as2.5_ex4.c" 
+gcc -o as2.5_ex4.exe "src\\as2.5_ex4.o" 
+Info: Nothing to build for as2.5_ex4
+Info: Nothing to build for as2.5_ex4
+Info: Nothing to build for as2.5_ex4
+06:18:11 **** Incremental Build of configuration Debug for project as2.5_ex4 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\as2.5_ex4.o" "..\\src\\as2.5_ex4.c" 
+gcc -o as2.5_ex4.exe "src\\as2.5_ex4.o" 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file as2.5_ex4.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+06:18:21 **** Incremental Build of configuration Debug for project as2.5_ex4 ****
+Info: Internal Builder is used for build
+gcc -o as2.5_ex4.exe "src\\as2.5_ex4.o" 
+Info: Nothing to build for as2.5_ex4

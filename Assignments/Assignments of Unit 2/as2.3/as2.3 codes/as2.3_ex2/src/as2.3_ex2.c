@@ -1,0 +1,22 @@
+/*
+ ============================================================================
+ Name        : 3_ex2.c
+ Author      : Abdelrahman Mamdouh
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void) {
+	int num = 0;
+
+	printf("Enter your number: ");
+	fflush(stdin); fflush(stdout);
+	scanf("%d",&num);
+	printf("Your number = %d" ,num);
+	return EXIT_SUCCESS;
+}

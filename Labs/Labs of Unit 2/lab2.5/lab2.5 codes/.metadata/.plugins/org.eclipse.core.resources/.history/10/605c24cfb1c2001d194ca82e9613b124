@@ -1,0 +1,51 @@
+/*
+ ============================================================================
+ Name        : 5_lab2.c
+ Author      : Abdelrahman Mamdouh
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int mini_of_array(int array[], int size)
+{
+int minimum = array[0], i;
+
+for (i = 0; i < size; i++)
+{
+	if (array[i] < minimum)
+		minimum = array [i];
+}
+return (minimum);
+}
+
+int main(void) {
+	int i, size;
+	printf("Enter array size:");
+	fflush(stdin); fflush(stdout);
+	scanf("%d",&size);
+	int array[size];
+	fflush(stdin); fflush(stdout);
+	printf("Enter array elements:");
+	fflush(stdin); fflush(stdout);
+	for (i = 0; i < size; i++)
+	{
+		printf("\nEnter element#%d:", i+1);
+		fflush(stdin); fflush(stdout);
+		scanf("%d", array[i]);
+	}
+	fflush(stdin); fflush(stdout);
+	printf("\nThe array elements entered are:\n");
+	fflush(stdin); fflush(stdout);
+	for (i = 0; i < size; i++)
+	{
+		printf("%d, ", array[i]);
+	}
+	fflush(stdin); fflush(stdout);
+	printf("\nThe minimum value of elements is: %d\n", mini_of_array(array, size));
+	return EXIT_SUCCESS;
+}

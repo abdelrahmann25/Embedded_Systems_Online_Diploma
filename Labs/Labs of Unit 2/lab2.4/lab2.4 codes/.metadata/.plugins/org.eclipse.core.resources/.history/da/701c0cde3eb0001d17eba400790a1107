@@ -1,0 +1,25 @@
+/*
+ ============================================================================
+ Name        : 4_lab8.c
+ Author      : Abdelrahman Mamdouh
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+
+int main(void) {
+	char name[50];
+	int i,strlen;
+	printf("Enter a string to find its length: ");
+	fflush(stdin); fflush(stdout);
+	gets(name);
+	for (i=0;name[i]!='\0';i++)
+	{
+		strlen++;
+	}
+	printf("The string length is: %d",strlen);
+	return 0;
+}

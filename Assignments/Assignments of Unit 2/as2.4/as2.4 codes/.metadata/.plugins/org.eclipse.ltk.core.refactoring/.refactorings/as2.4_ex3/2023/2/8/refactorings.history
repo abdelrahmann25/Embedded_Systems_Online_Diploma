@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;as2.4_ex3/src/ax2.4_ex3.c&apos; to &apos;as2.4_ex3.c&apos;" description="Rename resource &apos;ax2.4_ex3.c&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/ax2.4_ex3.c" name="as2.4_ex3.c" stamp="1676826246105" updateReferences="true"/>
+</session>

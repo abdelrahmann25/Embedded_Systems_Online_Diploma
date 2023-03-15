@@ -1,0 +1,26 @@
+/*
+ ============================================================================
+ Name        : 4_lab7.c
+ Author      : Abdelrahman Mamdouh
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+
+int main(void) {
+	char name[]={"Ahmed Osama"};
+	char namelwr[10];
+	int i;
+	printf("%s\n", name);
+	printf("%s\n", namelwr);
+	for( i=0 ; name[i]!='\0' ; i++)
+	{
+		if (name[i]>='A' && name[i]<='Z')
+			{namelwr[i]=name[i]+32;}
+	}
+	printf("%s\n", namelwr);
+	return 0;
+}

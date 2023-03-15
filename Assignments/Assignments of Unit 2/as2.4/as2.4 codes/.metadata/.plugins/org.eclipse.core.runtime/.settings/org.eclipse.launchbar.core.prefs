@@ -1,0 +1,7 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:as2.4_ex1.exe,org.eclipse.launchbar.core.descriptorType.default\:as2.4_ex2.exe,org.eclipse.launchbar.core.descriptorType.default\:ax2.4_ex3.exe,org.eclipse.launchbar.core.descriptorType.default\:as2.4_ex4.exe,org.eclipse.launchbar.core.descriptorType.default\:as2.4_ex5.exe,org.eclipse.launchbar.core.descriptorType.default\:as2.4_ex6.exe,org.eclipse.launchbar.core.descriptorType.default\:as2.4_ex7.exe,org.eclipse.launchbar.core.descriptorType.default\:as2.4_ex8.exe
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:as2.4_ex1.exe/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:as2.4_ex1.exe/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:as2.4_ex2.exe/activeLaunchMode=run

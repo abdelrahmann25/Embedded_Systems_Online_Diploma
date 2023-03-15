@@ -1,0 +1,863 @@
+19:59:06 **** Rebuild of configuration Debug for project lab2.4_lab3 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab3.o" "..\\src\\lab2.4_lab3.c" 
+gcc -o lab2.4_lab3.exe "src\\lab2.4_lab3.o" 
+Info: Nothing to build for lab2.4_lab3
+20:10:50 **** Incremental Build of configuration Debug for project lab2.4_lab3 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab3.o" "..\\src\\lab2.4_lab3.c" 
+..\src\lab2.4_lab3.c: In function 'main':
+..\src\lab2.4_lab3.c:18:12: warning: format '%c' expects argument of type 'int', but argument 2 has type 'float *' [-Wformat=]
+   printf("%c", &text[i]);
+            ^
+gcc -o lab2.4_lab3.exe "src\\lab2.4_lab3.o" 
+Info: Nothing to build for lab2.4_lab3
+20:22:41 **** Incremental Build of configuration Debug for project lab2.4_lab3 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab3.o" "..\\src\\lab2.4_lab3.c" 
+..\src\lab2.4_lab3.c: In function 'main':
+..\src\lab2.4_lab3.c:18:12: warning: format '%c' expects argument of type 'int', but argument 2 has type 'double' [-Wformat=]
+   printf("%c", text[i]);
+            ^
+gcc -o lab2.4_lab3.exe "src\\lab2.4_lab3.o" 
+Info: Nothing to build for lab2.4_lab3
+20:24:18 **** Incremental Build of configuration Debug for project lab2.4_lab3 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab3.o" "..\\src\\lab2.4_lab3.c" 
+..\src\lab2.4_lab3.c: In function 'main':
+..\src\lab2.4_lab3.c:18:12: warning: format '%c' expects argument of type 'int', but argument 2 has type 'double' [-Wformat=]
+   printf("%c", text[i]);
+            ^
+gcc -o lab2.4_lab3.exe "src\\lab2.4_lab3.o" 
+Info: Nothing to build for lab2.4_lab3
+20:27:34 **** Incremental Build of configuration Debug for project lab2.4_lab3 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab3.o" "..\\src\\lab2.4_lab3.c" 
+..\src\lab2.4_lab3.c: In function 'main':
+..\src\lab2.4_lab3.c:17:19: error: expected expression before ']' token
+  printf("%s",text[]);
+                   ^
+..\src\lab2.4_lab3.c:19:12: warning: format '%c' expects argument of type 'int', but argument 2 has type 'double' [-Wformat=]
+   printf("%c", text[i]);
+            ^
+20:28:14 **** Incremental Build of configuration Debug for project lab2.4_lab3 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab3.o" "..\\src\\lab2.4_lab3.c" 
+..\src\lab2.4_lab3.c: In function 'main':
+..\src\lab2.4_lab3.c:17:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'float *' [-Wformat=]
+  printf("%s",text);
+           ^
+..\src\lab2.4_lab3.c:19:12: warning: format '%c' expects argument of type 'int', but argument 2 has type 'double' [-Wformat=]
+   printf("%c", text[i]);
+            ^
+gcc -o lab2.4_lab3.exe "src\\lab2.4_lab3.o" 
+Info: Nothing to build for lab2.4_lab3
+Info: Nothing to build for lab2.4_lab3
+20:29:08 **** Incremental Build of configuration Debug for project lab2.4_lab3 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab3.o" "..\\src\\lab2.4_lab3.c" 
+..\src\lab2.4_lab3.c: In function 'main':
+..\src\lab2.4_lab3.c:17:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'float *' [-Wformat=]
+  printf("%s",&text[0]);
+           ^
+..\src\lab2.4_lab3.c:19:12: warning: format '%c' expects argument of type 'int', but argument 2 has type 'double' [-Wformat=]
+   printf("%c", text[i]);
+            ^
+gcc -o lab2.4_lab3.exe "src\\lab2.4_lab3.o" 
+Info: Nothing to build for lab2.4_lab3
+Info: Nothing to build for lab2.4_lab3
+20:30:02 **** Incremental Build of configuration Debug for project lab2.4_lab3 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab3.o" "..\\src\\lab2.4_lab3.c" 
+gcc -o lab2.4_lab3.exe "src\\lab2.4_lab3.o" 
+Info: Nothing to build for lab2.4_lab3
+20:30:26 **** Incremental Build of configuration Debug for project lab2.4_lab3 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab3.o" "..\\src\\lab2.4_lab3.c" 
+gcc -o lab2.4_lab3.exe "src\\lab2.4_lab3.o" 
+Info: Nothing to build for lab2.4_lab3
+10:25:03 **** Rebuild of configuration Debug for project lab2.4_lab4 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab4.o" "..\\src\\lab2.4_lab4.c" 
+..\src\lab2.4_lab4.c: In function 'main':
+..\src\lab2.4_lab4.c:15:8: warning: unused variable 'tr' [-Wunused-variable]
+  float tr[3][3];
+        ^~
+gcc -o lab2.4_lab4.exe "src\\lab2.4_lab4.o" 
+Info: Nothing to build for lab2.4_lab4
+10:29:08 **** Incremental Build of configuration Debug for project lab2.4_lab4 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab4.o" "..\\src\\lab2.4_lab4.c" 
+..\src\lab2.4_lab4.c: In function 'main':
+..\src\lab2.4_lab4.c:23:12: warning: format '%f' expects argument of type 'float *', but argument 2 has type 'double' [-Wformat=]
+    scanf("%f", matrix[i][c]);
+            ^
+gcc -o lab2.4_lab4.exe "src\\lab2.4_lab4.o" 
+Info: Nothing to build for lab2.4_lab4
+10:30:16 **** Incremental Build of configuration Debug for project lab2.4_lab4 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab4.o" "..\\src\\lab2.4_lab4.c" 
+gcc -o lab2.4_lab4.exe "src\\lab2.4_lab4.o" 
+Info: Nothing to build for lab2.4_lab4
+10:32:02 **** Incremental Build of configuration Debug for project lab2.4_lab4 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab4.o" "..\\src\\lab2.4_lab4.c" 
+..\src\lab2.4_lab4.c: In function 'main':
+..\src\lab2.4_lab4.c:32:16: warning: format '%f' expects argument of type 'double', but argument 2 has type 'float *' [-Wformat=]
+    printf(" %.2f ", &matrix[i][c]);
+                ^
+..\src\lab2.4_lab4.c:49:17: warning: format '%f' expects argument of type 'double', but argument 2 has type 'float *' [-Wformat=]
+     printf(" %.2f ", &tr[i][c]);
+                 ^
+gcc -o lab2.4_lab4.exe "src\\lab2.4_lab4.o" 
+Info: Nothing to build for lab2.4_lab4
+10:35:55 **** Incremental Build of configuration Debug for project lab2.4_lab4 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab4.o" "..\\src\\lab2.4_lab4.c" 
+gcc -o lab2.4_lab4.exe "src\\lab2.4_lab4.o" 
+Info: Nothing to build for lab2.4_lab4
+Info: Nothing to build for lab2.4_lab4
+Info: Nothing to build for lab2.4_lab4
+Info: Nothing to build for lab2.4_lab4
+Info: Nothing to build for lab2.4_lab4
+10:43:51 **** Incremental Build of configuration Debug for project lab2.4_lab4 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab4.o" "..\\src\\lab2.4_lab4.c" 
+gcc -o lab2.4_lab4.exe "src\\lab2.4_lab4.o" 
+Info: Nothing to build for lab2.4_lab4
+10:45:20 **** Incremental Build of configuration Debug for project lab2.4_lab4 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab4.o" "..\\src\\lab2.4_lab4.c" 
+gcc -o lab2.4_lab4.exe "src\\lab2.4_lab4.o" 
+Info: Nothing to build for lab2.4_lab4
+10:46:29 **** Incremental Build of configuration Debug for project lab2.4_lab4 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab4.o" "..\\src\\lab2.4_lab4.c" 
+gcc -o lab2.4_lab4.exe "src\\lab2.4_lab4.o" 
+Info: Nothing to build for lab2.4_lab4
+Info: Nothing to build for lab2.4_lab4
+10:47:33 **** Incremental Build of configuration Debug for project lab2.4_lab4 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab4.o" "..\\src\\lab2.4_lab4.c" 
+gcc -o lab2.4_lab4.exe "src\\lab2.4_lab4.o" 
+Info: Nothing to build for lab2.4_lab4
+10:49:07 **** Incremental Build of configuration Debug for project lab2.4_lab4 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab4.o" "..\\src\\lab2.4_lab4.c" 
+gcc -o lab2.4_lab4.exe "src\\lab2.4_lab4.o" 
+Info: Nothing to build for lab2.4_lab4
+10:55:21 **** Rebuild of configuration Debug for project lab2.4_lab5 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab5.o" "..\\src\\lab2.4_lab5.c" 
+gcc -o lab2.4_lab5.exe "src\\lab2.4_lab5.o" 
+Info: Nothing to build for lab2.4_lab5
+11:02:09 **** Incremental Build of configuration Debug for project lab2.4_lab5 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab5.o" "..\\src\\lab2.4_lab5.c" 
+..\src\lab2.4_lab5.c: In function 'main':
+..\src\lab2.4_lab5.c:14:32: error: excess elements in char array initializer
+  char names[]={"Ahmed Osama" , "Abdelrahman Mamdouh", "Omar Mamdouh" , "Muhammed Mamdouh"};
+                                ^~~~~~~~~~~~~~~~~~~~~
+..\src\lab2.4_lab5.c:14:32: note: (near initialization for 'names')
+..\src\lab2.4_lab5.c:14:55: error: excess elements in char array initializer
+  char names[]={"Ahmed Osama" , "Abdelrahman Mamdouh", "Omar Mamdouh" , "Muhammed Mamdouh"};
+                                                       ^~~~~~~~~~~~~~
+..\src\lab2.4_lab5.c:14:55: note: (near initialization for 'names')
+..\src\lab2.4_lab5.c:14:72: error: excess elements in char array initializer
+  char names[]={"Ahmed Osama" , "Abdelrahman Mamdouh", "Omar Mamdouh" , "Muhammed Mamdouh"};
+                                                                        ^~~~~~~~~~~~~~~~~~
+..\src\lab2.4_lab5.c:14:72: note: (near initialization for 'names')
+..\src\lab2.4_lab5.c:18:12: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'int' [-Wformat=]
+   printf("%s \n",names[i]);
+            ^
+11:02:50 **** Incremental Build of configuration Debug for project lab2.4_lab5 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab5.o" "..\\src\\lab2.4_lab5.c" 
+..\src\lab2.4_lab5.c: In function 'main':
+..\src\lab2.4_lab5.c:14:7: error: array type has incomplete element type 'char[]'
+  char names[][]={"Ahmed Osama" , "Abdelrahman Mamdouh", "Omar Mamdouh" , "Muhammed Mamdouh"};
+       ^~~~~
+..\src\lab2.4_lab5.c:14:7: note: declaration of 'names' as multidimensional array must have bounds for all dimensions except the first
+..\src\lab2.4_lab5.c:14:7: warning: unused variable 'names' [-Wunused-variable]
+11:03:08 **** Incremental Build of configuration Debug for project lab2.4_lab5 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab5.o" "..\\src\\lab2.4_lab5.c" 
+gcc -o lab2.4_lab5.exe "src\\lab2.4_lab5.o" 
+Info: Nothing to build for lab2.4_lab5
+11:04:16 **** Incremental Build of configuration Debug for project lab2.4_lab5 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab5.o" "..\\src\\lab2.4_lab5.c" 
+gcc -o lab2.4_lab5.exe "src\\lab2.4_lab5.o" 
+Info: Nothing to build for lab2.4_lab5
+11:04:34 **** Incremental Build of configuration Debug for project lab2.4_lab5 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab5.o" "..\\src\\lab2.4_lab5.c" 
+gcc -o lab2.4_lab5.exe "src\\lab2.4_lab5.o" 
+Info: Nothing to build for lab2.4_lab5
+11:07:02 **** Incremental Build of configuration Debug for project lab2.4_lab5 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab5.o" "..\\src\\lab2.4_lab5.c" 
+gcc -o lab2.4_lab5.exe "src\\lab2.4_lab5.o" 
+Info: Nothing to build for lab2.4_lab5
+11:11:06 **** Rebuild of configuration Debug for project lab2.4_lab6 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab6.o" "..\\src\\lab2.4_lab6.c" 
+gcc -o lab2.4_lab6.exe "src\\lab2.4_lab6.o" 
+11:11:16 **** Incremental Build of configuration Debug for project lab2.4_lab6 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab6.o" "..\\src\\lab2.4_lab6.c" 
+..\src\lab2.4_lab6.c: In function 'main':
+..\src\lab2.4_lab6.c:19:15: error: subscripted value is neither array nor pointer nor vector
+   copy_of_name[i]=name[i];
+               ^
+..\src\lab2.4_lab6.c:21:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'int' [-Wformat=]
+  printf("%s", copy_of_name);
+           ^
+11:12:06 **** Incremental Build of configuration Debug for project lab2.4_lab6 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab6.o" "..\\src\\lab2.4_lab6.c" 
+..\src\lab2.4_lab6.c: In function 'main':
+..\src\lab2.4_lab6.c:19:15: error: subscripted value is neither array nor pointer nor vector
+   copy_of_name[i]=name[i];
+               ^
+11:12:22 **** Incremental Build of configuration Debug for project lab2.4_lab6 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab6.o" "..\\src\\lab2.4_lab6.c" 
+..\src\lab2.4_lab6.c: In function 'main':
+..\src\lab2.4_lab6.c:14:31: error: array size missing in 'copy_of_name'
+  char name[]={"Ahmed Osama"}, copy_of_name[];
+                               ^~~~~~~~~~~~
+..\src\lab2.4_lab6.c:21:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[1]' [-Wformat=]
+  printf("%s", &copy_of_name);
+           ^
+11:12:52 **** Incremental Build of configuration Debug for project lab2.4_lab6 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab6.o" "..\\src\\lab2.4_lab6.c" 
+..\src\lab2.4_lab6.c: In function 'main':
+..\src\lab2.4_lab6.c:21:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'char (*)[20]' [-Wformat=]
+  printf("%s", &copy_of_name);
+           ^
+gcc -o lab2.4_lab6.exe "src\\lab2.4_lab6.o" 
+11:13:04 **** Incremental Build of configuration Debug for project lab2.4_lab6 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab6.o" "..\\src\\lab2.4_lab6.c" 
+gcc -o lab2.4_lab6.exe "src\\lab2.4_lab6.o" 
+Info: Nothing to build for lab2.4_lab6
+11:13:22 **** Incremental Build of configuration Debug for project lab2.4_lab6 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab6.o" "..\\src\\lab2.4_lab6.c" 
+gcc -o lab2.4_lab6.exe "src\\lab2.4_lab6.o" 
+Info: Nothing to build for lab2.4_lab6
+11:25:16 **** Rebuild of configuration Debug for project lab2.4_lab7 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab7.o" "..\\src\\lab2.4_lab7.c" 
+..\src\lab2.4_lab7.c: In function 'main':
+..\src\lab2.4_lab7.c:22:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'int *' [-Wformat=]
+  printf("%s", copy_of_name);
+           ^
+gcc -o lab2.4_lab7.exe "src\\lab2.4_lab7.o" 
+Info: Nothing to build for lab2.4_lab7
+11:25:48 **** Incremental Build of configuration Debug for project lab2.4_lab7 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab7.o" "..\\src\\lab2.4_lab7.c" 
+..\src\lab2.4_lab7.c: In function 'main':
+..\src\lab2.4_lab7.c:22:11: warning: format '%d' expects argument of type 'int', but argument 2 has type 'int *' [-Wformat=]
+  printf("%d", copy_of_name);
+           ^
+gcc -o lab2.4_lab7.exe "src\\lab2.4_lab7.o" 
+Info: Nothing to build for lab2.4_lab7
+11:26:23 **** Incremental Build of configuration Debug for project lab2.4_lab7 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab7.o" "..\\src\\lab2.4_lab7.c" 
+gcc -o lab2.4_lab7.exe "src\\lab2.4_lab7.o" 
+Info: Nothing to build for lab2.4_lab7
+11:27:57 **** Incremental Build of configuration Debug for project lab2.4_lab7 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab7.o" "..\\src\\lab2.4_lab7.c" 
+gcc -o lab2.4_lab7.exe "src\\lab2.4_lab7.o" 
+Info: Nothing to build for lab2.4_lab7
+11:48:14 **** Incremental Build of configuration Debug for project lab2.4_lab7 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab7.o" "..\\src\\lab2.4_lab7.c" 
+..\src\lab2.4_lab7.c: In function 'main':
+..\src\lab2.4_lab7.c:15:20: error: invalid initializer
+  int transform[20]=0;
+                    ^
+..\src\lab2.4_lab7.c:16:24: error: invalid initializer
+  char copy_of_name[20]=0;
+                        ^
+11:48:25 **** Incremental Build of configuration Debug for project lab2.4_lab7 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab7.o" "..\\src\\lab2.4_lab7.c" 
+gcc -o lab2.4_lab7.exe "src\\lab2.4_lab7.o" 
+Info: Nothing to build for lab2.4_lab7
+11:56:28 **** Incremental Build of configuration Debug for project lab2.4_lab7 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab7.o" "..\\src\\lab2.4_lab7.c" 
+gcc -o lab2.4_lab7.exe "src\\lab2.4_lab7.o" 
+Info: Nothing to build for lab2.4_lab7
+11:57:44 **** Incremental Build of configuration Debug for project lab2.4_lab7 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab7.o" "..\\src\\lab2.4_lab7.c" 
+gcc -o lab2.4_lab7.exe "src\\lab2.4_lab7.o" 
+Info: Nothing to build for lab2.4_lab7
+11:59:50 **** Incremental Build of configuration Debug for project lab2.4_lab7 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab7.o" "..\\src\\lab2.4_lab7.c" 
+gcc -o lab2.4_lab7.exe "src\\lab2.4_lab7.o" 
+Info: Nothing to build for lab2.4_lab7
+12:01:16 **** Incremental Build of configuration Debug for project lab2.4_lab7 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab7.o" "..\\src\\lab2.4_lab7.c" 
+gcc -o lab2.4_lab7.exe "src\\lab2.4_lab7.o" 
+Info: Nothing to build for lab2.4_lab7
+12:02:11 **** Incremental Build of configuration Debug for project lab2.4_lab7 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab7.o" "..\\src\\lab2.4_lab7.c" 
+gcc -o lab2.4_lab7.exe "src\\lab2.4_lab7.o" 
+Info: Nothing to build for lab2.4_lab7
+12:03:22 **** Incremental Build of configuration Debug for project lab2.4_lab7 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab7.o" "..\\src\\lab2.4_lab7.c" 
+gcc -o lab2.4_lab7.exe "src\\lab2.4_lab7.o" 
+Info: Nothing to build for lab2.4_lab7
+12:04:00 **** Incremental Build of configuration Debug for project lab2.4_lab7 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab7.o" "..\\src\\lab2.4_lab7.c" 
+gcc -o lab2.4_lab7.exe "src\\lab2.4_lab7.o" 
+Info: Nothing to build for lab2.4_lab7
+Info: Nothing to build for lab2.4_lab7
+12:06:57 **** Incremental Build of configuration Debug for project lab2.4_lab7 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab7.o" "..\\src\\lab2.4_lab7.c" 
+gcc -o lab2.4_lab7.exe "src\\lab2.4_lab7.o" 
+Info: Nothing to build for lab2.4_lab7
+12:09:28 **** Incremental Build of configuration Debug for project lab2.4_lab7 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab7.o" "..\\src\\lab2.4_lab7.c" 
+gcc -o lab2.4_lab7.exe "src\\lab2.4_lab7.o" 
+Info: Nothing to build for lab2.4_lab7
+Info: Nothing to build for lab2.4_lab7
+12:10:02 **** Incremental Build of configuration Debug for project lab2.4_lab7 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab7.o" "..\\src\\lab2.4_lab7.c" 
+gcc -o lab2.4_lab7.exe "src\\lab2.4_lab7.o" 
+Info: Nothing to build for lab2.4_lab7
+12:18:24 **** Rebuild of configuration Debug for project lab2.4_lab8 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab8.o" "..\\src\\lab2.4_lab8.c" 
+gcc -o lab2.4_lab8.exe "src\\lab2.4_lab8.o" 
+Info: Nothing to build for lab2.4_lab8
+12:18:52 **** Incremental Build of configuration Debug for project lab2.4_lab8 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab8.o" "..\\src\\lab2.4_lab8.c" 
+gcc -o lab2.4_lab8.exe "src\\lab2.4_lab8.o" 
+Info: Nothing to build for lab2.4_lab8
+12:19:18 **** Incremental Build of configuration Debug for project lab2.4_lab8 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab8.o" "..\\src\\lab2.4_lab8.c" 
+gcc -o lab2.4_lab8.exe "src\\lab2.4_lab8.o" 
+Info: Nothing to build for lab2.4_lab8
+12:19:46 **** Incremental Build of configuration Debug for project lab2.4_lab8 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab8.o" "..\\src\\lab2.4_lab8.c" 
+gcc -o lab2.4_lab8.exe "src\\lab2.4_lab8.o" 
+12:19:58 **** Incremental Build of configuration Debug for project lab2.4_lab8 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab8.o" "..\\src\\lab2.4_lab8.c" 
+gcc -o lab2.4_lab8.exe "src\\lab2.4_lab8.o" 
+Info: Nothing to build for lab2.4_lab8
+12:21:45 **** Incremental Build of configuration Debug for project lab2.4_lab8 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab8.o" "..\\src\\lab2.4_lab8.c" 
+gcc -o lab2.4_lab8.exe "src\\lab2.4_lab8.o" 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file lab2.4_lab8.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+12:21:49 **** Incremental Build of configuration Debug for project lab2.4_lab8 ****
+Info: Internal Builder is used for build
+gcc -o lab2.4_lab8.exe "src\\lab2.4_lab8.o" 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file lab2.4_lab8.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+12:21:50 **** Incremental Build of configuration Debug for project lab2.4_lab8 ****
+Info: Internal Builder is used for build
+gcc -o lab2.4_lab8.exe "src\\lab2.4_lab8.o" 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file lab2.4_lab8.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+12:22:50 **** Incremental Build of configuration Debug for project lab2.4_lab8 ****
+Info: Internal Builder is used for build
+gcc -o lab2.4_lab8.exe "src\\lab2.4_lab8.o" 
+Info: Nothing to build for lab2.4_lab8
+12:45:37 **** Rebuild of configuration Debug for project lab2.4_lab9 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab9.o" "..\\src\\lab2.4_lab9.c" 
+..\src\lab2.4_lab9.c: In function 'main':
+..\src\lab2.4_lab9.c:19:7: warning: unused variable 'str2' [-Wunused-variable]
+  char str2[50][50];
+       ^~~~
+gcc -o lab2.4_lab9.exe "src\\lab2.4_lab9.o" 
+Info: Nothing to build for lab2.4_lab9
+12:46:04 **** Incremental Build of configuration Debug for project lab2.4_lab9 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab9.o" "..\\src\\lab2.4_lab9.c" 
+..\src\lab2.4_lab9.c: In function 'main':
+..\src\lab2.4_lab9.c:19:7: warning: unused variable 'str2' [-Wunused-variable]
+  char str2[50][50];
+       ^~~~
+gcc -o lab2.4_lab9.exe "src\\lab2.4_lab9.o" 
+Info: Nothing to build for lab2.4_lab9
+12:47:26 **** Incremental Build of configuration Debug for project lab2.4_lab9 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab9.o" "..\\src\\lab2.4_lab9.c" 
+..\src\lab2.4_lab9.c: In function 'main':
+..\src\lab2.4_lab9.c:19:7: warning: unused variable 'str2' [-Wunused-variable]
+  char str2[50][50];
+       ^~~~
+gcc -o lab2.4_lab9.exe "src\\lab2.4_lab9.o" 
+Info: Nothing to build for lab2.4_lab9
+13:10:16 **** Incremental Build of configuration Debug for project lab2.4_lab9 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab9.o" "..\\src\\lab2.4_lab9.c" 
+..\src\lab2.4_lab9.c: In function 'main':
+..\src\lab2.4_lab9.c:19:7: warning: unused variable 'str2' [-Wunused-variable]
+  char str2[50][50];
+       ^~~~
+gcc -o lab2.4_lab9.exe "src\\lab2.4_lab9.o" 
+Info: Nothing to build for lab2.4_lab9
+13:11:12 **** Incremental Build of configuration Debug for project lab2.4_lab9 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab9.o" "..\\src\\lab2.4_lab9.c" 
+..\src\lab2.4_lab9.c: In function 'main':
+..\src\lab2.4_lab9.c:19:7: warning: unused variable 'str2' [-Wunused-variable]
+  char str2[50][50];
+       ^~~~
+gcc -o lab2.4_lab9.exe "src\\lab2.4_lab9.o" 
+Info: Nothing to build for lab2.4_lab9
+13:12:42 **** Incremental Build of configuration Debug for project lab2.4_lab9 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab9.o" "..\\src\\lab2.4_lab9.c" 
+..\src\lab2.4_lab9.c: In function 'main':
+..\src\lab2.4_lab9.c:19:7: warning: unused variable 'str2' [-Wunused-variable]
+  char str2[50][50];
+       ^~~~
+gcc -o lab2.4_lab9.exe "src\\lab2.4_lab9.o" 
+Info: Nothing to build for lab2.4_lab9
+13:23:48 **** Incremental Build of configuration Debug for project lab2.4_lab9 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab9.o" "..\\src\\lab2.4_lab9.c" 
+..\src\lab2.4_lab9.c: In function 'main':
+..\src\lab2.4_lab9.c:21:17: error: assignment to expression with array type
+  for(r=0;str1[r]='\0';r++)
+                 ^
+..\src\lab2.4_lab9.c:19:7: warning: unused variable 'str2' [-Wunused-variable]
+  char str2[50][50];
+       ^~~~
+13:24:21 **** Incremental Build of configuration Debug for project lab2.4_lab9 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab9.o" "..\\src\\lab2.4_lab9.c" 
+..\src\lab2.4_lab9.c: In function 'main':
+..\src\lab2.4_lab9.c:19:7: warning: unused variable 'str2' [-Wunused-variable]
+  char str2[50][50];
+       ^~~~
+gcc -o lab2.4_lab9.exe "src\\lab2.4_lab9.o" 
+Info: Nothing to build for lab2.4_lab9
+13:25:22 **** Incremental Build of configuration Debug for project lab2.4_lab9 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab9.o" "..\\src\\lab2.4_lab9.c" 
+..\src\lab2.4_lab9.c: In function 'main':
+..\src\lab2.4_lab9.c:19:7: warning: unused variable 'str2' [-Wunused-variable]
+  char str2[50][50];
+       ^~~~
+gcc -o lab2.4_lab9.exe "src\\lab2.4_lab9.o" 
+Info: Nothing to build for lab2.4_lab9
+13:26:18 **** Incremental Build of configuration Debug for project lab2.4_lab9 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab9.o" "..\\src\\lab2.4_lab9.c" 
+..\src\lab2.4_lab9.c: In function 'main':
+..\src\lab2.4_lab9.c:19:7: warning: unused variable 'str2' [-Wunused-variable]
+  char str2[50][50];
+       ^~~~
+gcc -o lab2.4_lab9.exe "src\\lab2.4_lab9.o" 
+Info: Nothing to build for lab2.4_lab9
+13:27:04 **** Incremental Build of configuration Debug for project lab2.4_lab9 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab9.o" "..\\src\\lab2.4_lab9.c" 
+..\src\lab2.4_lab9.c: In function 'main':
+..\src\lab2.4_lab9.c:18:7: warning: unused variable 'str2' [-Wunused-variable]
+  char str2[50][50];
+       ^~~~
+gcc -o lab2.4_lab9.exe "src\\lab2.4_lab9.o" 
+Info: Nothing to build for lab2.4_lab9
+13:28:44 **** Incremental Build of configuration Debug for project lab2.4_lab9 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab9.o" "..\\src\\lab2.4_lab9.c" 
+..\src\lab2.4_lab9.c: In function 'main':
+..\src\lab2.4_lab9.c:18:7: warning: unused variable 'str2' [-Wunused-variable]
+  char str2[50][50];
+       ^~~~
+gcc -o lab2.4_lab9.exe "src\\lab2.4_lab9.o" 
+Info: Nothing to build for lab2.4_lab9
+13:35:05 **** Incremental Build of configuration Debug for project lab2.4_lab9 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab9.o" "..\\src\\lab2.4_lab9.c" 
+..\src\lab2.4_lab9.c: In function 'main':
+..\src\lab2.4_lab9.c:18:6: warning: unused variable 'i' [-Wunused-variable]
+  int i;
+      ^
+gcc -o lab2.4_lab9.exe "src\\lab2.4_lab9.o" 
+Info: Nothing to build for lab2.4_lab9
+Info: Nothing to build for lab2.4_lab9
+13:43:43 **** Incremental Build of configuration Debug for project lab2.4_lab9 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab9.o" "..\\src\\lab2.4_lab9.c" 
+gcc -o lab2.4_lab9.exe "src\\lab2.4_lab9.o" 
+Info: Nothing to build for lab2.4_lab9
+Info: Nothing to build for lab2.4_lab9
+13:45:41 **** Incremental Build of configuration Debug for project lab2.4_lab9 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab9.o" "..\\src\\lab2.4_lab9.c" 
+gcc -o lab2.4_lab9.exe "src\\lab2.4_lab9.o" 
+Info: Nothing to build for lab2.4_lab9
+13:46:59 **** Incremental Build of configuration Debug for project lab2.4_lab9 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab9.o" "..\\src\\lab2.4_lab9.c" 
+gcc -o lab2.4_lab9.exe "src\\lab2.4_lab9.o" 
+Info: Nothing to build for lab2.4_lab9
+13:48:45 **** Incremental Build of configuration Debug for project lab2.4_lab9 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab9.o" "..\\src\\lab2.4_lab9.c" 
+..\src\lab2.4_lab9.c: In function 'main':
+..\src\lab2.4_lab9.c:50:3: error: break statement not within loop or switch
+   break;
+   ^~~~~
+13:48:54 **** Incremental Build of configuration Debug for project lab2.4_lab9 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab9.o" "..\\src\\lab2.4_lab9.c" 
+gcc -o lab2.4_lab9.exe "src\\lab2.4_lab9.o" 
+Info: Nothing to build for lab2.4_lab9
+Info: Nothing to build for lab2.4_lab9
+13:52:54 **** Incremental Build of configuration Debug for project lab2.4_lab9 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab9.o" "..\\src\\lab2.4_lab9.c" 
+gcc -o lab2.4_lab9.exe "src\\lab2.4_lab9.o" 
+Info: Nothing to build for lab2.4_lab9
+13:56:01 **** Incremental Build of configuration Debug for project lab2.4_lab9 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab9.o" "..\\src\\lab2.4_lab9.c" 
+..\src\lab2.4_lab9.c: In function 'main':
+..\src\lab2.4_lab9.c:48:4: error: expected '}' before 'else'
+    else
+    ^~~~
+..\src\lab2.4_lab9.c: At top level:
+..\src\lab2.4_lab9.c:53:2: error: expected identifier or '(' before 'return'
+  return 0;
+  ^~~~~~
+..\src\lab2.4_lab9.c:54:1: error: expected identifier or '(' before '}' token
+ }
+ ^
+13:56:11 **** Incremental Build of configuration Debug for project lab2.4_lab9 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab9.o" "..\\src\\lab2.4_lab9.c" 
+..\src\lab2.4_lab9.c: In function 'main':
+..\src\lab2.4_lab9.c:48:4: error: expected '}' before 'else'
+    else printf("0");
+    ^~~~
+..\src\lab2.4_lab9.c: At top level:
+..\src\lab2.4_lab9.c:52:2: error: expected identifier or '(' before 'return'
+  return 0;
+  ^~~~~~
+..\src\lab2.4_lab9.c:53:1: error: expected identifier or '(' before '}' token
+ }
+ ^
+13:56:25 **** Incremental Build of configuration Debug for project lab2.4_lab9 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab9.o" "..\\src\\lab2.4_lab9.c" 
+..\src\lab2.4_lab9.c:52:2: error: expected identifier or '(' before 'return'
+  return 0;
+  ^~~~~~
+..\src\lab2.4_lab9.c:53:1: error: expected identifier or '(' before '}' token
+ }
+ ^
+13:57:38 **** Incremental Build of configuration Debug for project lab2.4_lab9 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab9.o" "..\\src\\lab2.4_lab9.c" 
+gcc -o lab2.4_lab9.exe "src\\lab2.4_lab9.o" 
+Info: Nothing to build for lab2.4_lab9
+14:01:37 **** Incremental Build of configuration Debug for project lab2.4_lab9 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab9.o" "..\\src\\lab2.4_lab9.c" 
+gcc -o lab2.4_lab9.exe "src\\lab2.4_lab9.o" 
+Info: Nothing to build for lab2.4_lab9
+14:02:36 **** Incremental Build of configuration Debug for project lab2.4_lab9 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab9.o" "..\\src\\lab2.4_lab9.c" 
+gcc -o lab2.4_lab9.exe "src\\lab2.4_lab9.o" 
+Info: Nothing to build for lab2.4_lab9
+14:03:08 **** Incremental Build of configuration Debug for project lab2.4_lab9 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab9.o" "..\\src\\lab2.4_lab9.c" 
+gcc -o lab2.4_lab9.exe "src\\lab2.4_lab9.o" 
+Info: Nothing to build for lab2.4_lab9
+Info: Nothing to build for lab2.4_lab9
+14:04:07 **** Incremental Build of configuration Debug for project lab2.4_lab9 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab9.o" "..\\src\\lab2.4_lab9.c" 
+gcc -o lab2.4_lab9.exe "src\\lab2.4_lab9.o" 
+Info: Nothing to build for lab2.4_lab9
+14:05:28 **** Incremental Build of configuration Debug for project lab2.4_lab9 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab9.o" "..\\src\\lab2.4_lab9.c" 
+gcc -o lab2.4_lab9.exe "src\\lab2.4_lab9.o" 
+Info: Nothing to build for lab2.4_lab9
+Info: Nothing to build for lab2.4_lab9
+Info: Nothing to build for lab2.4_lab9
+Info: Nothing to build for lab2.4_lab9
+14:58:23 **** Rebuild of configuration Debug for project lab2.4_lab10 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab10.o" "..\\src\\lab2.4_lab10.c" 
+..\src\lab2.4_lab10.c: In function 'main':
+..\src\lab2.4_lab10.c:29:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'int *' [-Wformat=]
+  printf("%s",selected_id);
+           ^
+..\src\lab2.4_lab10.c: At top level:
+..\src\lab2.4_lab10.c:31:3: error: expected identifier or '(' before 'return'
+   return 0;
+   ^~~~~~
+..\src\lab2.4_lab10.c:32:2: error: expected identifier or '(' before '}' token
+  }
+  ^
+14:59:04 **** Incremental Build of configuration Debug for project lab2.4_lab10 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab10.o" "..\\src\\lab2.4_lab10.c" 
+..\src\lab2.4_lab10.c: In function 'main':
+..\src\lab2.4_lab10.c:29:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'int *' [-Wformat=]
+  printf("%s",selected_id);
+           ^
+gcc -o lab2.4_lab10.exe "src\\lab2.4_lab10.o" 
+14:59:21 **** Incremental Build of configuration Debug for project lab2.4_lab10 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab10.o" "..\\src\\lab2.4_lab10.c" 
+..\src\lab2.4_lab10.c: In function 'main':
+..\src\lab2.4_lab10.c:29:11: warning: format '%d' expects argument of type 'int', but argument 2 has type 'int *' [-Wformat=]
+  printf("%d",selected_id);
+           ^
+gcc -o lab2.4_lab10.exe "src\\lab2.4_lab10.o" 
+14:59:45 **** Incremental Build of configuration Debug for project lab2.4_lab10 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab10.o" "..\\src\\lab2.4_lab10.c" 
+..\src\lab2.4_lab10.c: In function 'main':
+..\src\lab2.4_lab10.c:29:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'int (*)[1000]' [-Wformat=]
+  printf("%s",&selected_id);
+           ^
+gcc -o lab2.4_lab10.exe "src\\lab2.4_lab10.o" 
+Info: Nothing to build for lab2.4_lab10
+15:01:23 **** Incremental Build of configuration Debug for project lab2.4_lab10 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab10.o" "..\\src\\lab2.4_lab10.c" 
+..\src\lab2.4_lab10.c: In function 'main':
+..\src\lab2.4_lab10.c:29:13: warning: format '%f' expects argument of type 'double', but argument 2 has type 'float (*)[1000]' [-Wformat=]
+  printf("%.2f",&selected_id);
+             ^
+gcc -o lab2.4_lab10.exe "src\\lab2.4_lab10.o" 
+15:01:29 **** Incremental Build of configuration Debug for project lab2.4_lab10 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab10.o" "..\\src\\lab2.4_lab10.c" 
+..\src\lab2.4_lab10.c: In function 'main':
+..\src\lab2.4_lab10.c:29:13: warning: format '%f' expects argument of type 'double', but argument 2 has type 'float *' [-Wformat=]
+  printf("%.2f",selected_id);
+             ^
+gcc -o lab2.4_lab10.exe "src\\lab2.4_lab10.o" 
+Info: Nothing to build for lab2.4_lab10
+15:01:50 **** Incremental Build of configuration Debug for project lab2.4_lab10 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab10.o" "..\\src\\lab2.4_lab10.c" 
+..\src\lab2.4_lab10.c: In function 'main':
+..\src\lab2.4_lab10.c:29:13: warning: format '%f' expects argument of type 'double', but argument 2 has type 'float *' [-Wformat=]
+  printf("%.2f",selected_id);
+             ^
+gcc -o lab2.4_lab10.exe "src\\lab2.4_lab10.o" 
+15:04:07 **** Incremental Build of configuration Debug for project lab2.4_lab10 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab10.o" "..\\src\\lab2.4_lab10.c" 
+..\src\lab2.4_lab10.c: In function 'main':
+..\src\lab2.4_lab10.c:19:13: warning: format '%f' expects argument of type 'double', but argument 2 has type 'float *' [-Wformat=]
+  printf("%.2f",selected_id);
+             ^
+..\src\lab2.4_lab10.c:30:13: warning: format '%f' expects argument of type 'double', but argument 2 has type 'float *' [-Wformat=]
+  printf("%.2f",selected_id);
+             ^
+gcc -o lab2.4_lab10.exe "src\\lab2.4_lab10.o" 
+Info: Nothing to build for lab2.4_lab10
+15:05:26 **** Incremental Build of configuration Debug for project lab2.4_lab10 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab10.o" "..\\src\\lab2.4_lab10.c" 
+..\src\lab2.4_lab10.c: In function 'main':
+..\src\lab2.4_lab10.c:19:13: warning: format '%f' expects argument of type 'double', but argument 2 has type 'float *' [-Wformat=]
+  printf("%.2f",selected_id);
+             ^
+..\src\lab2.4_lab10.c:31:2: error: expected ';' before 'printf'
+  printf("%.2f",selected_id);
+  ^~~~~~
+15:05:34 **** Incremental Build of configuration Debug for project lab2.4_lab10 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab10.o" "..\\src\\lab2.4_lab10.c" 
+..\src\lab2.4_lab10.c: In function 'main':
+..\src\lab2.4_lab10.c:19:13: warning: format '%f' expects argument of type 'double', but argument 2 has type 'float *' [-Wformat=]
+  printf("%.2f",selected_id);
+             ^
+..\src\lab2.4_lab10.c:31:13: warning: format '%f' expects argument of type 'double', but argument 2 has type 'float *' [-Wformat=]
+  printf("%.2f",selected_id);
+             ^
+gcc -o lab2.4_lab10.exe "src\\lab2.4_lab10.o" 
+Info: Nothing to build for lab2.4_lab10
+Info: Nothing to build for lab2.4_lab10
+Info: Nothing to build for lab2.4_lab10
+15:14:03 **** Incremental Build of configuration Debug for project lab2.4_lab10 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab10.o" "..\\src\\lab2.4_lab10.c" 
+..\src\lab2.4_lab10.c: In function 'main':
+..\src\lab2.4_lab10.c:19:13: warning: format '%f' expects argument of type 'double', but argument 2 has type 'float *' [-Wformat=]
+  printf("%.2f",selected_id);
+             ^
+..\src\lab2.4_lab10.c:31:13: warning: format '%f' expects argument of type 'double', but argument 2 has type 'float *' [-Wformat=]
+  printf("%.2f",selected_id);
+             ^
+gcc -o lab2.4_lab10.exe "src\\lab2.4_lab10.o" 
+Info: Nothing to build for lab2.4_lab10
+15:14:52 **** Incremental Build of configuration Debug for project lab2.4_lab10 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab10.o" "..\\src\\lab2.4_lab10.c" 
+..\src\lab2.4_lab10.c: In function 'main':
+..\src\lab2.4_lab10.c:19:13: warning: format '%f' expects argument of type 'double', but argument 2 has type 'float *' [-Wformat=]
+  printf("%.2f",selected_id);
+             ^
+..\src\lab2.4_lab10.c:31:13: warning: format '%f' expects argument of type 'double', but argument 2 has type 'float *' [-Wformat=]
+  printf("%.2f",selected_id);
+             ^
+gcc -o lab2.4_lab10.exe "src\\lab2.4_lab10.o" 
+Info: Nothing to build for lab2.4_lab10
+15:15:58 **** Incremental Build of configuration Debug for project lab2.4_lab10 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab10.o" "..\\src\\lab2.4_lab10.c" 
+..\src\lab2.4_lab10.c: In function 'main':
+..\src\lab2.4_lab10.c:19:13: warning: format '%f' expects argument of type 'double', but argument 2 has type 'int *' [-Wformat=]
+  printf("%.2f",selected_id);
+             ^
+..\src\lab2.4_lab10.c:31:11: warning: format '%d' expects argument of type 'int', but argument 2 has type 'int *' [-Wformat=]
+  printf("%d",selected_id);
+           ^
+gcc -o lab2.4_lab10.exe "src\\lab2.4_lab10.o" 
+Info: Nothing to build for lab2.4_lab10
+15:17:32 **** Incremental Build of configuration Debug for project lab2.4_lab10 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab10.o" "..\\src\\lab2.4_lab10.c" 
+..\src\lab2.4_lab10.c: In function 'main':
+..\src\lab2.4_lab10.c:19:13: warning: format '%f' expects argument of type 'double', but argument 2 has type 'int *' [-Wformat=]
+  printf("%.2f",selected_id);
+             ^
+..\src\lab2.4_lab10.c:31:11: warning: format '%d' expects argument of type 'int', but argument 2 has type 'int *' [-Wformat=]
+  printf("%d",selected_id);
+           ^
+gcc -o lab2.4_lab10.exe "src\\lab2.4_lab10.o" 
+Info: Nothing to build for lab2.4_lab10
+Info: Nothing to build for lab2.4_lab10
+15:18:22 **** Incremental Build of configuration Debug for project lab2.4_lab10 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab10.o" "..\\src\\lab2.4_lab10.c" 
+..\src\lab2.4_lab10.c: In function 'main':
+..\src\lab2.4_lab10.c:19:13: warning: format '%f' expects argument of type 'double', but argument 2 has type 'int *' [-Wformat=]
+  printf("%.2f",selected_id);
+             ^
+..\src\lab2.4_lab10.c:31:11: warning: format '%d' expects argument of type 'int', but argument 2 has type 'int *' [-Wformat=]
+  printf("%d",selected_id);
+           ^
+gcc -o lab2.4_lab10.exe "src\\lab2.4_lab10.o" 
+Info: Nothing to build for lab2.4_lab10
+Info: Nothing to build for lab2.4_lab10
+15:21:09 **** Incremental Build of configuration Debug for project lab2.4_lab10 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab10.o" "..\\src\\lab2.4_lab10.c" 
+..\src\lab2.4_lab10.c: In function 'main':
+..\src\lab2.4_lab10.c:19:13: warning: format '%f' expects argument of type 'double', but argument 2 has type 'int *' [-Wformat=]
+  printf("%.2f",selected_id);
+             ^
+..\src\lab2.4_lab10.c:31:11: warning: format '%d' expects argument of type 'int', but argument 2 has type 'int *' [-Wformat=]
+  printf("%d",selected_id);
+           ^
+gcc -o lab2.4_lab10.exe "src\\lab2.4_lab10.o" 
+Info: Nothing to build for lab2.4_lab10
+15:22:51 **** Incremental Build of configuration Debug for project lab2.4_lab10 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab10.o" "..\\src\\lab2.4_lab10.c" 
+..\src\lab2.4_lab10.c: In function 'main':
+..\src\lab2.4_lab10.c:19:13: warning: format '%f' expects argument of type 'double', but argument 2 has type 'float *' [-Wformat=]
+  printf("%.2f",selected_id);
+             ^
+..\src\lab2.4_lab10.c:31:13: warning: format '%f' expects argument of type 'double', but argument 2 has type 'float *' [-Wformat=]
+  printf("%.2f",selected_id);
+             ^
+gcc -o lab2.4_lab10.exe "src\\lab2.4_lab10.o" 
+Info: Nothing to build for lab2.4_lab10
+Info: Nothing to build for lab2.4_lab10
+15:23:59 **** Incremental Build of configuration Debug for project lab2.4_lab10 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab10.o" "..\\src\\lab2.4_lab10.c" 
+..\src\lab2.4_lab10.c: In function 'main':
+..\src\lab2.4_lab10.c:19:13: warning: format '%f' expects argument of type 'double', but argument 2 has type 'float *' [-Wformat=]
+  printf("%.2f",selected_id);
+             ^
+..\src\lab2.4_lab10.c:31:13: warning: format '%f' expects argument of type 'double', but argument 2 has type 'float *' [-Wformat=]
+  printf("%.2f",selected_id);
+             ^
+gcc -o lab2.4_lab10.exe "src\\lab2.4_lab10.o" 
+15:24:42 **** Incremental Build of configuration Debug for project lab2.4_lab10 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab10.o" "..\\src\\lab2.4_lab10.c" 
+..\src\lab2.4_lab10.c: In function 'main':
+..\src\lab2.4_lab10.c:30:13: warning: format '%f' expects argument of type 'double', but argument 2 has type 'float *' [-Wformat=]
+  printf("%.2f \n",id);
+             ^
+..\src\lab2.4_lab10.c:32:13: warning: format '%f' expects argument of type 'double', but argument 2 has type 'float *' [-Wformat=]
+  printf("%.2f",selected_id);
+             ^
+gcc -o lab2.4_lab10.exe "src\\lab2.4_lab10.o" 
+Info: Nothing to build for lab2.4_lab10
+15:37:40 **** Incremental Build of configuration Debug for project lab2.4_lab10 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab10.o" "..\\src\\lab2.4_lab10.c" 
+..\src\lab2.4_lab10.c: In function 'main':
+..\src\lab2.4_lab10.c:30:13: warning: format '%f' expects argument of type 'double', but argument 2 has type 'float *' [-Wformat=]
+  printf("%.2f \n",id);
+             ^
+..\src\lab2.4_lab10.c:32:13: warning: format '%f' expects argument of type 'double', but argument 2 has type 'float *' [-Wformat=]
+  printf("%.2f",selected_id);
+             ^
+gcc -o lab2.4_lab10.exe "src\\lab2.4_lab10.o" 
+Info: Nothing to build for lab2.4_lab10
+15:40:52 **** Incremental Build of configuration Debug for project lab2.4_lab10 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab10.o" "..\\src\\lab2.4_lab10.c" 
+gcc -o lab2.4_lab10.exe "src\\lab2.4_lab10.o" 
+15:41:11 **** Incremental Build of configuration Debug for project lab2.4_lab10 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab10.o" "..\\src\\lab2.4_lab10.c" 
+gcc -o lab2.4_lab10.exe "src\\lab2.4_lab10.o" 
+Info: Nothing to build for lab2.4_lab10
+15:41:39 **** Incremental Build of configuration Debug for project lab2.4_lab10 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab10.o" "..\\src\\lab2.4_lab10.c" 
+gcc -o lab2.4_lab10.exe "src\\lab2.4_lab10.o" 
+15:42:35 **** Incremental Build of configuration Debug for project lab2.4_lab10 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab10.o" "..\\src\\lab2.4_lab10.c" 
+gcc -o lab2.4_lab10.exe "src\\lab2.4_lab10.o" 
+Info: Nothing to build for lab2.4_lab10
+15:44:29 **** Incremental Build of configuration Debug for project lab2.4_lab10 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab10.o" "..\\src\\lab2.4_lab10.c" 
+gcc -o lab2.4_lab10.exe "src\\lab2.4_lab10.o" 
+Info: Nothing to build for lab2.4_lab10
+15:46:06 **** Incremental Build of configuration Debug for project lab2.4_lab10 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\lab2.4_lab10.o" "..\\src\\lab2.4_lab10.c" 
+gcc -o lab2.4_lab10.exe "src\\lab2.4_lab10.o" 
+Info: Nothing to build for lab2.4_lab10

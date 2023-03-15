@@ -1,0 +1,54 @@
+/*
+ ============================================================================
+ Name        : 5_ex1.c
+ Author      : Abdelrahman Mamdouh
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+void primes(int first, int second) {
+	int num, i, array[100], counter = 0, prime = 1;
+
+	if (first > 0 && second > 0) {
+		for (num = first; num <= second; num++) {
+			if (num % 2 != 0) {
+				for (i = 2; i <= num / 2; i++) {
+					if (num % i == 0) {
+						prime = 0;
+						break;
+					}
+				}
+				if (prime == 1)
+				{
+					array[counter] = num;
+					counter++;
+					prime = 0;
+				}
+
+			}
+		}
+		printf("The Prime numbers between intervals are: \n");
+		for(i = 0; i <= counter; i++)
+		{
+			printf("%d, ", array[i]);
+		}
+	} else {
+		printf("ERROR: You entered negative intervals");
+	}
+
+}
+
+int main(void) {
+	int first, second;
+	printf("Enter two intervals values:");
+	fflush(stdin); fflush(stdout);
+	scanf("%d", &first);
+	scanf("%d", &second);
+	primes(first,second);
+	return EXIT_SUCCESS;
+}

@@ -1,0 +1,40 @@
+/*
+ ============================================================================
+ Name        : 4_ex2.c
+ Author      : Abdelrahman Mamdouh
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+
+int main(void) {
+	float sum,avg;
+	int data, i;
+	printf("Enter the number of data you want:");
+	fflush(stdin); fflush(stdout);
+	scanf("%d",data);
+	fflush(stdin); fflush(stdout);
+
+
+
+	float array[data];
+	for(i=0;i<data;i++)
+	{
+		printf("\nEnter number%d:", i+1);
+		fflush(stdin); fflush(stdout);
+		scanf("%f",array[i]);
+		fflush(stdin); fflush(stdout);
+	}
+	for(i=0;i<data;i++)
+		{
+		sum=+array[i];
+		}
+	avg=sum/data;
+	printf("\nThe Average of entered data is: %.2f", avg);
+	fflush(stdin); fflush(stdout);
+
+	return 0;
+}

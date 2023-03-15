@@ -1,0 +1,23 @@
+/*
+ ============================================================================
+ Name        : 4_lab3.c
+ Author      : Abdelrahman Mamdouh
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+
+int main(void) {
+
+	float text[] = { 'h', 'e', 'l', 'l', 'o', 0 };
+	int i=0;
+	while (text[i] != 0 && i<sizeof(text)) {
+		printf("%c", text[i]);
+		i++;
+	}
+
+}
+

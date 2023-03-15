@@ -1,0 +1,33 @@
+Lab1:
+store and print 10 students degrees.
+
+lab2:
+calculate polynomial value for a set of inputs.
+
+Lab3:
+Write code that is equavelent to %s in printing.
+
+Lab4:
+Calculate and print the transpose of 3x3 matrix.
+
+Lab5:
+Print array of strings (2D array) for 4 names "firstname secondname".
+
+Lab6:
+Copy string to string.
+
+Lab7:
+Change string case from lower to upper and vis versa.
+
+Lab8:
+Find the string length without strlen().
+
+Lab9:
+Write code for compare entered string with another entered string list.
+
+Lab10:
+Define a ID array of 1000 elements and fill it with a random values using
+rand() function between 1 and 1000, then searches and counts the number of 
+values that satsfiy the following condition:
+The previous and the next values is lower than the center
+ex: .. 1 3 6 3 7 5 5 3 8 6 4 7 2 9 .. >>> So 6 7 8 7 are accepted values

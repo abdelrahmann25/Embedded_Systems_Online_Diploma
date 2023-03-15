@@ -1,0 +1,27 @@
+/*
+ ============================================================================
+ Name        : 4_lab7.c
+ Author      : Abdelrahman Mamdouh
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+
+int main(void) {
+	char name[]={"Ahmed Osama"};
+	int transform[20]=0;
+	char copy_of_name[20]=0;
+	int i;
+	printf("%s\n", name);
+	for( i=0 ; i<sizeof(name) ; i++)
+	{
+		transform[i]=name[i]+32;
+		copy_of_name[i]=transform[i];
+	}
+	copy_of_name[i+1]=0;
+	printf("%s", copy_of_name);
+	return 0;
+}

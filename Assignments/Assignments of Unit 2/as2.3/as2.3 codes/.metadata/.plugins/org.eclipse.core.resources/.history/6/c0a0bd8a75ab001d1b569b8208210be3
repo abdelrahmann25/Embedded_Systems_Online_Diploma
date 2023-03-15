@@ -1,0 +1,33 @@
+/*
+ ============================================================================
+ Name        : 3_ex14.c
+ Author      : Abdelrahman Mamdouh
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+
+int main(void) {
+	while(1)
+	{
+		unsigned int num = 0;
+		unsigned int factorial = 0;
+	printf("Enter a normal number: ");
+		fflush(stdin); fflush(stdout);
+		scanf("%d",&num );
+		if(num == 0)
+			printf("The factorial of 0 is 1");
+		while(!num==0)
+		{
+			num = num * --num ;
+			factorial = factorial + num;
+
+		}
+	printf("The factorial of %d is = %d \n",num, factorial);
+	}
+	return 0;
+}
+
